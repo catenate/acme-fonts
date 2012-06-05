@@ -1,5 +1,6 @@
+Dump /git/acme-fonts/dump
 osd git add Aide
-osd git commit -a -m 'first commit'
+osd git commit -a -m 'Add dump file.'
 osd git log --graph --oneline --all
 osd git push origin master
 osd git remote add origin git@github.com:catenate/acme-fonts.git
