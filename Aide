@@ -1,6 +1,14 @@
+/emu/port/latin1.h
+/fonts/Aide
+/git/notabene/catenate/utf8sampler
+/lib/keyboard
+/lib/sed/edit
+/nb/ecloud/20120525
 Dump /git/acme-fonts/dump
-osd git add dump
-osd git commit -a -m 'Add dump file.'
+Man 6 font
+ls -F|mc
+osd git add fonts
+osd git commit -a -m 'Add Vera font from acmesac, and my own font files.'
 osd git log --graph --oneline --all
 osd git push origin master
 osd git remote add origin git@github.com:catenate/acme-fonts.git
