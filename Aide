@@ -7,8 +7,8 @@
 Dump /git/acme-fonts/dump
 Man 6 font
 ls -F|mc
-osd git add emu
-osd git commit -a -m 'Copy /emu/port/latin.h to remap keyboard Alt shortcuts.'
+osd git add appl
+osd git commit -a -m 'Whiten heavy black lines in Acme.'
 osd git log --graph --oneline --all
 osd git push origin master
 osd git status
