@@ -7,11 +7,9 @@
 Dump /git/acme-fonts/dump
 Man 6 font
 ls -F|mc
-osd git add fonts
-osd git commit -a -m 'Add Vera font from acmesac, and my own font files.'
+osd git add emu
+osd git commit -a -m 'Copy /emu/port/latin.h to remap keyboard Alt shortcuts.'
 osd git log --graph --oneline --all
 osd git push origin master
-osd git remote add origin git@github.com:catenate/acme-fonts.git
-osd git remote rm origin
 osd git status
 |sort|uniq
