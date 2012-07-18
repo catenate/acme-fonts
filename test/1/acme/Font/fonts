@@ -1,0 +1,20 @@
+:0,$
+>os aspell pipe | sed '/^[ 	*]*$/d'
+Font /fonts/10646/9x15/9x15.font	# dot-matrix printer, !unicode
+Font /fonts/lucida/unicode.10.font 	# big
+Font /fonts/lucida/unicode.20.font 	# over shoulder
+Font /fonts/lucida/unicode.32.font 	# across the room
+Font /fonts/lucidasans/unicode.6.font	# overview code
+Font /fonts/vera/Vera/9x15.14.font 	# edit files
+Font /fonts/vera/Vera/unimono.14.font	# 9x15.font fill
+Font /fonts/vera/veramono/veramono.14.font	# +mono, -unicode
+Man 1 diff
+Man diff
+|fmt -w 1 | sort | uniq | fmt -w 1000
+|sed '/^$/d' |edit |fmt -w 72
+|sed '/^[ 	]*$/d'
+|sed 's,^[ 	]+,,'
+|sed -f /lib/sed/edit
+|sort|uniq
+|tr 'anihdyujgcvpmlsrxo;kf.,bt/' 'abcdefghijklmnopqrstuvwxyz'
+|tr A-Z a-z

@@ -1,15 +1,16 @@
+/dis/Aide
 /emu/port/latin1.h
 /fonts/Aide
 /git/notabene/catenate/utf8sampler
 /lib/keyboard
 /lib/sed/edit
 /nb/ecloud/20120525
-Dump /git/acme-fonts/dump
+Edit ,|sort|uniq
 Man 6 font
-ls -F|mc
-osd git add appl
-osd git commit -a -m 'Whiten heavy black lines in Acme.'
+dump acme-fonts
+ls -F | mc
+osd git add test
+osd git commit -a -m 'Copy files with various Edit and Font commands as tests.'
 osd git log --graph --oneline --all
 osd git push origin master
 osd git status
-|sort|uniq
