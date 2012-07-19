@@ -1,6 +1,735 @@
 /git
 /fonts/vera/Vera/9x15.14.font
 /fonts/lucidasans/unicode.6.font
-          0          30          69
-f          0           7         114         139           1 
-          7          43         431           0           0 /git/acme-fonts/Aide Del Snarf Undo | Look 
+          0          29
+f          0           1          98         156           1 
+          1          34         156           0           0 /fonts/Aide Del Snarf Undo | Look 
+f          0           2          12          37           3 
+          2          43         275           0           0 /git/acme-fonts/Aide Del Snarf Undo | Look 
+f          0           3        1309        1309          97 
+          3          66        1510           0           0 /git/acme-fonts/test/1/acme/Font/fonts Del Snarf Undo Redo | Look 
+f          1           6         521         567           1 
+          6          47        8399           0           0 /fonts/vera/Vera/9x15.14.font Del Snarf | Look 
+f          1           8        1026        1072           3 
+          8          50        6176           0           0 /fonts/vera/Vera/unimono.14.font Del Snarf | Look 
+F          1           2       16903       16916           5       17111 
+         13          72       17111           0           1 /git/acme-fonts/test/1/acme/Font/+Errors Del Snarf Undo Redo Put | Look 
+04d2
+alphabets.txt	diaeresis.txt	diæresis		fonts		utf8sampler
+alphabets.txt	diæresis		utf8sampler
+diaeresis.txt	fonts		utf8super.txt
+alphabets.txt	diæresis		rm iroha.txt utf8super.txt
+alphabets.txt	diæresis		iroha		utf8super
+rm diaeresis.txt	fonts		utf8sampler
+alphabets.txt	fonts		utf8sampler
+diæresis		iroha		utf8super
+alphabets.txt	fonts		runic.txt		utf8sampler
+diæresis		iroha		utf8runes.txt	utf8super
+alphabets.txt	fulltable.txt	runic.txt		utf8sampler
+diæresis		iroha		tengwar.txt	utf8super
+fonts		ring.txt		utf8runes.txt
+alphabets.txt	fonts		ring.txt		utf8runes.txt
+charsets.txt	fulltable.txt	runic.txt		utf8sampler
+diæresis		iroha		tengwar.txt	utf8super
+alphabets.txt	fonts		latinres.txt	runic.txt		utf8sampler
+charsets.txt	fulltable.txt	numbers.txt	tengwar.txt	utf8super
+diæresis		iroha		ring.txt		utf8runes.txt
+0365
+Font /fonts/vera/Vera/9x15.14.font
+ͥ
+alphabets.txt	fonts		latinres.txt	runic.txt		utf8sampler
+charsets.txt	fulltable.txt	numbers.txt	tengwar.txt	utf8super
+diæresis		iroha		ring.txt		utf8runes.txt
+alphabets.txt	fulltable.txt	ring.txt		utf8boxes.txt
+charsets.txt	iroha		runic.txt		utf8runes.txt
+diæresis		latinres.txt	tengwar.txt	utf8sampler
+fonts		numbers.txt	utf8block.txt	utf8super
+alphabets.txt		latinres.txt		utf8block.txt
+charsets.txt		numbers.txt		utf8boxes.txt
+diæresis			ring.txt			utf8runes.txt
+fonts			runic.txt			utf8sampler
+fulltable.txt		tengwar.txt		utf8super
+iroha			mv utf8_to_latex.txt utf8_to_latex
+alphabets.txt	fulltable.txt	ring.txt		utf8block.txt	utf8super
+charsets.txt	iroha		runic.txt		utf8boxes.txt
+diæresis		latinres.txt	tengwar.txt	utf8runes.txt
+fonts		numbers.txt	utf8_to_latex	utf8sampler
+alphabets.txt	fulltable.txt	numbers.txt	utf8_to_latex	utf8sampler
+charsets.txt	greek.txt		ring.txt		utf8block.txt	utf8super
+diæresis		iroha		runic.txt		utf8boxes.txt
+fonts		latinres.txt	tengwar.txt	utf8runes.txt
+alphabets.txt	fonts		latinres.txt	tengwar.txt	utf8runes.txt
+charsets.txt	fulltable.txt	numbers.txt	utf8_to_latex	utf8sampler
+cyrillic.txt		greek.txt		ring.txt		utf8block.txt	utf8super
+diæresis		iroha		runic.txt		utf8boxes.txt
+rm alchemy.txt	diæresis		iroha		runic.txt		utf8boxes.txt
+alphabets.txt	fonts		latinres.txt	tengwar.txt	utf8runes.txt
+charsets.txt	fulltable.txt	numbers.txt	utf8_to_latex	utf8sampler
+cyrillic.txt		greek.txt		ring.txt		utf8block.txt	utf8super
+alphabets.txt	fonts		iroha		runic.txt		utf8boxes.txt
+charsets.txt	fulltable.txt	latinres.txt	tengwar.txt	utf8runes.txt
+cyrillic.txt		greek.txt		numbers.txt	utf8_to_latex	utf8sampler
+diæresis		hebrew.txt	ring.txt		utf8block.txt	utf8super
+alphabets.txt	fulltable.txt	latinres.txt	utf8_to_latex	utf8super
+charsets.txt	greek.txt		numbers.txt	utf8block.txt
+cyrillic.txt		hebrew.txt	ring.txt		utf8boxes.txt
+diæresis		iroha		runic.txt		utf8runes.txt
+fonts		latin_1.txt		tengwar.txt	utf8sampler
+alphabets.txt	fulltable.txt	latinres.txt	runic.txt		utf8runes.txt
+charsets.txt	greek.txt		letterlike.txt	tengwar.txt	utf8sampler
+cyrillic.txt		hebrew.txt	ligatures.txt	utf8_to_latex	utf8super
+diæresis		iroha		numbers.txt	utf8block.txt
+fonts		latin_1.txt		ring.txt		utf8boxes.txt
+alphabets.txt		latin_1.txt			runic.txt
+charsets.txt		latinres.txt		tengwar.txt
+cyrillic.txt			letterlike.txt		utf8_to_latex
+diæresis			ligatures.txt		utf8block.txt
+fonts			rm math_anum.txt		utf8boxes.txt
+fulltable.txt		mathop.txt		utf8runes.txt
+greek.txt			music.txt			utf8sampler
+hebrew.txt		numbers.txt		utf8super
+iroha			ring.txt
+sh: builtin seq not found
+1141 "Sh":fail:builtin not found
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+unicode E000
+57345
+57346
+57347
+57348
+57349
+57350
+57351
+57352
+57353
+57354
+57355
+57356
+57357
+57358
+57359
+Man 1 unicode
+unicode: bad unicode value 57344
+
+sh: builtin expr not found
+1168 "Sh":fail:builtin not found
+sh: builtin expr not found
+1169 "Sh":fail:builtin not found
+57344
+57345
+57346
+57347
+57348
+57349
+57350
+57351
+57352
+57353
+57360
+57361
+57362
+57363
+57364
+57365
+E000
+E001
+E002
+E003
+E004
+E005
+E006
+E007
+E008
+E009
+E010
+E011
+E012
+E013
+E014
+E015
+usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
+E000
+E001
+E002
+E003
+E004
+E005
+E006
+E007
+E008
+E009
+E010
+E011
+E012
+E013
+E014
+E015
+usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
+usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
+usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
+usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
+usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
+usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
+usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
+usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
+usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
+usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
+usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
+usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
+usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
+usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
+usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
+usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
+unicode
+unicode
+unicode
+unicode
+unicode
+unicode
+unicode
+unicode
+unicode
+unicode
+unicode
+unicode
+unicode
+unicode
+unicode
+unicode
+unicode E000
+unicode E001
+unicode E002
+unicode E003
+unicode E004
+unicode E005
+unicode E006
+unicode E007
+unicode E008
+unicode E009
+unicode E010
+unicode E011
+unicode E012
+unicode E013
+unicode E014
+unicode E015
+               
+               
+alphabets.txt	fulltable.txt	latinres.txt	numbers.txt	utf8block.txt
+charsets.txt	greek.txt		letterlike.txt	ring.txt		utf8boxes.txt
+cyrillic.txt		hebrew.txt	ligatures.txt	runic.txt		utf8runes.txt
+diæresis		iroha		mathop.txt	tengwar.txt	utf8sampler
+fonts		latin_1.txt		music.txt		utf8_to_latex	utf8super
+UE000.txt		fulltable.txt	letterlike.txt	runic.txt		utf8sampler
+alphabets.txt	greek.txt		ligatures.txt	tengwar.txt	utf8super
+charsets.txt	hebrew.txt	mathop.txt	utf8_to_latex
+cyrillic.txt		iroha		music.txt		utf8block.txt
+diæresis		latin_1.txt		numbers.txt	utf8boxes.txt
+fonts		latinres.txt	ring.txt		utf8runes.txt
+               
+               
+               
+               
+               
+               
+               
+               
+               
+rm U0000.txt		charsets.txt	iroha		numbers.txt	utf8runes.txt
+U0020.txt		cyrillic.txt		latin_1.txt		ring.txt		utf8sampler
+rm  U0080.txt latin_1.txt			diæresis		latinres.txt	runic.txt		utf8super
+U0100.txt		fonts		letterlike.txt	tengwar.txt
+U0180.txt		fulltable.txt	ligatures.txt	utf8_to_latex
+UE000.txt		greek.txt		mathop.txt	utf8block.txt
+alphabets.txt	hebrew.txt	music.txt		utf8boxes.txt
+U0020.txt		cyrillic.txt		iroha		music.txt		utf8block.txt
+U0100.txt		diæresis		latin_1.txt		numbers.txt	utf8boxes.txt
+U0180.txt		fonts		latinres.txt	ring.txt		utf8runes.txt
+UE000.txt		fulltable.txt	letterlike.txt	runic.txt		utf8sampler
+alphabets.txt	greek.txt		ligatures.txt	tengwar.txt	utf8super
+charsets.txt	hebrew.txt	mathop.txt	utf8_to_latex
+U0020.txt		diæresis		mathop.txt	utf8block.txt
+rm U0100.txt	latin_a.txt			fonts		music.txt		utf8boxes.txt
+rm U0180.txt		latin_b.txt		fulltable.txt	latin_c.txt		numbers.txt	utf8runes.txt
+UE000.txt		greek.txt		latin_d.txt		ring.txt		utf8sampler
+
+alphabets.txt	hebrew.txt	latinres.txt	runic.txt		utf8super
+charsets.txt	iroha		letterlike.txt	tengwar.txt
+cyrillic.txt		latin_1.txt		ligatures.txt	utf8_to_latex
+U0020.txt		fulltable.txt	rm latin_c.txt		numbers.txt	utf8runes.txt
+UE000.txt		greek.txt		rm latin_d.txt		ring.txt		utf8sampler
+alphabets.txt	hebrew.txt	latinres.txt	runic.txt		utf8super
+charsets.txt	iroha		letterlike.txt	tengwar.txt
+cyrillic.txt		latin_1.txt		ligatures.txt	utf8_to_latex
+diæresis		latin_a.txt		mathop.txt	utf8block.txt
+fonts		latin_b.txt		music.txt		utf8boxes.txt
+U0020.txt		fonts		latin_a.txt		music.txt		utf8block.txt
+UE000.txt		fulltable.txt	latin_b.txt		numbers.txt	utf8boxes.txt
+alphabets.txt	greek.txt		latinres.txt	ring.txt		utf8runes.txt
+charsets.txt	hebrew.txt	letterlike.txt	runic.txt		utf8sampler
+cyrillic.txt		iroha		ligatures.txt	tengwar.txt	utf8super
+diæresis		latin_1.txt		mathop.txt	utf8_to_latex
+U0020.txt			iroha			numbers.txt
+UE000.txt			latin_1.txt			ring.txt
+alphabets.txt		latin_a.txt			runic.txt
+charsets.txt		latin_b.txt			tengwar.txt
+cyrillic.txt			latinres.txt		utf8_to_latex
+diæresis			letterlike.txt		utf8block.txt
+fonts			ligatures.txt		utf8boxes.txt
+fulltable.txt		mathop.txt		utf8runes.txt
+greek.txt			music.txt			utf8sampler
+hebrew.txt		numberforms.txt	utf8super
+U0020.txt			latin_1.txt			numberforms.txt
+UE000.txt			latin_a.txt			numbers.txt
+alphabets.txt		latin_b.txt			ring.txt
+charsets.txt		latinres.txt		runic.txt
+cyrillic.txt			letterlike.txt		tengwar.txt
+diæresis			ligatures.txt		utf8_to_latex
+fonts			mathop.txt		utf8block.txt
+fulltable.txt		rm miscmath_a.txt miscmath_b.txt	utf8runes.txt
+hebrew.txt		misctech.txt		utf8sampler
+iroha			music.txt			utf8super
+U0020.txt			latin_1.txt			ring.txt
+UE000.txt			latin_a.txt			runic.txt
+alphabets.txt		latin_b.txt			tengwar.txt
+charsets.txt		latinres.txt		utf8_to_latex
+cyrillic.txt			letterlike.txt		utf8block.txt
+diæresis			ligatures.txt		utf8boxes.txt
+fonts			mathop.txt		utf8runes.txt
+fulltable.txt		misctech.txt		utf8sampler
+greek.txt			music.txt			utf8super
+hebrew.txt		numberforms.txt
+iroha			numbers.txt
+U0020.txt			latin_a.txt			rm punctuation2.txt
+UE000.txt			latin_b.txt			ring.txt
+alphabets.txt		latinres.txt		runic.txt
+charsets.txt		letterlike.txt		tengwar.txt
+cyrillic.txt			ligatures.txt		utf8_to_latex
+diæresis			mathop.txt		utf8block.txt
+fonts			misctech.txt		utf8boxes.txt
+fulltable.txt		music.txt			utf8runes.txt
+greek.txt			numberforms.txt	utf8sampler
+hebrew.txt		numbers.txt		utf8super
+iroha			rm phonetic.txt
+latin_1.txt			punctuation.txt
+U0020.txt			latin_1.txt			punctuation.txt
+UE000.txt			latin_a.txt			ring.txt
+alphabets.txt		latin_b.txt			runic.txt
+charsets.txt		latinres.txt		tengwar.txt
+cyrillic.txt			letterlike.txt		utf8_to_latex
+diæresis			ligatures.txt		utf8block.txt
+fonts			mathop.txt		utf8boxes.txt
+fulltable.txt		misctech.txt		utf8runes.txt
+greek.txt			music.txt			utf8sampler
+hebrew.txt		numberforms.txt	utf8super
+iroha			numbers.txt
+utf8sampler
+diæresis
+alphabets.txt
+utf8super
+iroha
+runic.txt
+utf8runes.txt
+tengwar.txt
+ring.txt
+fulltable.txt
+charsets.txt
+numbers.txt
+latinres.txt
+utf8boxes.txt
+utf8block.txt
+utf8_to_latex
+greek.txt
+cyrillic.txt
+hebrew.txt
+latin_1.txt
+ligatures.txt
+letterlike.txt
+mathop.txt
+music.txt
+UE000.txt
+fonts
+U0020.txt
+latin_a.txt
+latin_b.txt
+numberforms.txt
+misctech.txt
+punctuation.txt
+supersub.txt
+ipa.txt
+rm hexagram.txt
+geometric.txt
+currency.txt
+arabic.txt
+rm braille.txt
+rm cherokee.txt
+utf8sampler
+diæresis
+alphabets.txt
+utf8super
+iroha
+runic.txt
+utf8runes.txt
+tengwar.txt
+ring.txt
+fulltable.txt
+charsets.txt
+numbers.txt
+latinres.txt
+utf8boxes.txt
+utf8block.txt
+utf8_to_latex
+greek.txt
+cyrillic.txt
+New ipa
+
+hebrew.txt
+latin_1.txt
+ligatures.txt
+letterlike.txt
+mathop.txt
+music.txt
+UE000.txt
+fonts
+U0020.txt
+latin_a.txt
+latin_b.txt
+numberforms.txt
+misctech.txt
+punctuation.txt
+supersub.txt
+ipa.txt
+geometric.txt
+currency.txt
+arabic.txt
+ascii.txt
+arrows.txt
+utf8sampler
+diæresis
+alphabets.txt
+utf8super
+iroha
+runic.txt
+utf8runes.txt
+tengwar.txt
+ring.txt
+fulltable.txt
+charsets.txt
+numbers.txt
+latinres.txt
+utf8boxes.txt
+utf8block.txt
+utf8_to_latex
+greek.txt
+cyrillic.txt
+hebrew.txt
+latin_1.txt
+ligatures.txt
+letterlike.txt
+mathop.txt
+music.txt
+UE000.txt
+fonts
+U0020.txt
+latin_a.txt
+latin_b.txt
+numberforms.txt
+misctech.txt
+punctuation.txt
+supersub.txt
+ipa.txt
+geometric.txt
+currency.txt
+arabic.txt
+ascii.txt
+arrows.txt
+spacing.txt
+utf8sampler
+diæresis
+alphabets.txt
+utf8super
+iroha
+runic.txt
+utf8runes.txt
+tengwar.txt
+ring.txt
+fulltable.txt
+charsets.txt
+numbers.txt
+latinres.txt
+utf8boxes.txt
+utf8block.txt
+utf8_to_latex
+greek.txt
+cyrillic.txt
+hebrew.txt
+latin_1.txt
+ligatures.txt
+letterlike.txt
+mathop.txt
+music.txt
+rm UE000.txt
+fonts
+U0020.txt
+latin_a.txt
+latin_b.txt
+numberforms.txt
+misctech.txt
+punctuation.txt
+supersub.txt
+ipa.txt
+geometric.txt
+currency.txt
+arabic.txt
+ascii.txt
+arrows.txt
+spacing.txt
+phonetic.txt
+phoneticsupp.txt
+phonextsupp.txt
+utf8sampler
+diæresis
+alphabets.txt
+utf8super
+iroha
+runic.txt
+utf8runes.txt
+tengwar.txt
+ring.txt
+fulltable.txt
+charsets.txt
+numbers.txt
+latinres.txt
+utf8boxes.txt
+utf8block.txt
+utf8_to_latex
+greek.txt
+cyrillic.txt
+hebrew.txt
+latin_1.txt
+ligatures.txt
+letterlike.txt
+mathop.txt
+music.txt
+UE000.txt
+U0020.txt
+latin_a.txt
+latin_b.txt
+numberforms.txt
+misctech.txt
+punctuation.txt
+supersub.txt
+ipa.txt
+geometric.txt
+currency.txt
+arabic.txt
+ascii.txt
+arrows.txt
+spacing.txt
+phonetic.txt
+phoneticsupp.txt
+phonextsupp.txt
+UA700.txt
+fonts
+utf8sampler
+diæresis
+alphabets.txt
+utf8super
+iroha
+runic.txt
+utf8runes.txt
+tengwar.txt
+ring.txt
+fulltable.txt
+charsets.txt
+numbers.txt
+latinres.txt
+utf8boxes.txt
+utf8block.txt
+utf8_to_latex
+greek.txt
+cyrillic.txt
+hebrew.txt
+latin_1.txt
+ligatures.txt
+letterlike.txt
+mathop.txt
+music.txt
+U0020.txt
+latin_a.txt
+latin_b.txt
+numberforms.txt
+misctech.txt
+punctuation.txt
+supersub.txt
+ipa.txt
+geometric.txt
+currency.txt
+arabic.txt
+ascii.txt
+arrows.txt
+spacing.txt
+phonetic.txt
+phoneticsupp.txt
+phonextsupp.txt
+UA700.txt
+fonts
+private.txt
+               
+               
+               
+dc: stack empty
+dc: dc: stack empty
+dc: stack empty
+dc: stack empty
+dc: dc: stack empty
+dc: stack empty
+unicode: bad unicode value 1CE00
+          0000 0027 0062 0027 0028 0030 0031 0034 0032 0029
+0075 006e 0069 006d 0070 006c 0065 006d 0065 006e 0074 0065 0064 
+0027 0065 0027 0028 0030 0031 0034 0035 0029 0075 006e 0069 006d 0070
+006c 0065 006d 0065 006e 0074 0065 0064   
+dc: stack empty
+dc: dc: stack empty
+dc: stack empty
+dc: stack empty
+dc: dc: stack empty
+dc: stack empty
+unicode: bad unicode value 1CE20
+          0010 0027 0062 0027 0028 0030 0031 0034 0032 0029
+0075 006e 0069 006d 0070 006c 0065 006d 0065 006e 0074 0065 0064 
+0027 0065 0027 0028 0030 0031 0034 0035 0029 0075 006e 0069 006d 0070
+006c 0065 006d 0065 006e 0074 0065 0064   
+dc: stack empty
+dc: dc: stack empty
+dc: stack empty
+dc: stack empty
+dc: dc: stack empty
+unicode: bad unicode value 1CE40
+          0027 0062 0027 0028 0030 0031 0034 0032 0029 0075
+006e 0069 006d 0070 006c 0065 006d 0065 006e 0074 0065 0064  0027
+0065 0027 0028 0030 0031 0034 0035 0029 0075 006e 0069 006d 0070 006c
+0065 006d 0065 006e 0074 0065 0064   
+               
+               
+               
+utf8sampler
+diæresis
+alphabets.txt
+utf8super
+iroha
+runic.txt
+utf8runes.txt
+tengwar.txt
+ring.txt
+fulltable.txt
+charsets.txt
+numbers.txt
+latinres.txt
+utf8boxes.txt
+utf8block.txt
+utf8_to_latex
+greek.txt
+cyrillic.txt
+hebrew.txt
+latin_1.txt
+ligatures.txt
+letterlike.txt
+mathop.txt
+music.txt
+U0020.txt
+latin_a.txt
+latin_b.txt
+numberforms.txt
+misctech.txt
+punctuation.txt
+supersub.txt
+ipa.txt
+geometric.txt
+currency.txt
+arabic.txt
+ascii.txt
+arrows.txt
+spacing.txt
+phonetic.txt
+phoneticsupp.txt
+phonextsupp.txt
+UA700.txt
+private.txt
+fonts
+rm cuneiform.txt
+utf8sampler
+diæresis
+alphabets.txt
+utf8super
+iroha
+runic.txt
+utf8runes.txt
+tengwar.txt
+ring.txt
+fulltable.txt
+charsets.txt
+numbers.txt
+latinres.txt
+utf8boxes.txt
+utf8block.txt
+utf8_to_latex
+greek.txt
+cyrillic.txt
+hebrew.txt
+latin_1.txt
+ligatures.txt
+letterlike.txt
+mathop.txt
+music.txt
+U0020.txt
+latin_a.txt
+latin_b.txt
+numberforms.txt
+misctech.txt
+punctuation.txt
+supersub.txt
+ipa.txt
+geometric.txt
+currency.txt
+arabic.txt
+ascii.txt
+arrows.txt
+spacing.txt
+phonetic.txt
+phoneticsupp.txt
+phonextsupp.txt
+UA700.txt
+private.txt
+fonts
+rm cyrillic_a.txt cyrillic_b.txt
+U0020.txt			ipa.txt			phonextsupp.txt
+UA700.txt			iroha			private.txt
+alphabets.txt		latin_1.txt			punctuation.txt
+arabic.txt			latin_a.txt			ring.txt
+arrows.txt			latin_b.txt			runic.txt
+ascii.txt			latinres.txt		spacing.txt
+charsets.txt		letterlike.txt		supersub.txt
+currency.txt		ligatures.txt		tengwar.txt
+cyrillic.txt			mathop.txt		utf8_to_latex
+diæresis			misctech.txt		utf8block.txt
+fonts			music.txt			utf8boxes.txt
+fulltable.txt		numberforms.txt	utf8runes.txt
+geometric.txt		numbers.txt		utf8sampler
+greek.txt			phonetic.txt		utf8super
+hebrew.txt		phoneticsupp.txt
+New README
+README			hebrew.txt		phoneticsupp.txt
+U0020.txt			ipa.txt			phonextsupp.txt
+UA700.txt			iroha			private.txt
+alphabets.txt		latin_1.txt			punctuation.txt
+arabic.txt			latin_a.txt			ring.txt
+arrows.txt			latin_b.txt			runic.txt
+ascii.txt			latinres.txt		spacing.txt
+charsets.txt		letterlike.txt		supersub.txt
+currency.txt		ligatures.txt		tengwar.txt
+cyrillic.txt			mathop.txt		utf8_to_latex
+diæresis			misctech.txt		utf8block.txt
+fonts			music.txt			utf8boxes.txt
+fulltable.txt		numberforms.txt	utf8runes.txt
+geometric.txt		numbers.txt		utf8sampler
+greek.txt			phonetic.txt		utf8super

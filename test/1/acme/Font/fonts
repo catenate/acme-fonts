@@ -1,5 +1,12 @@
+/emu/port/latin1.h
+/lib/keyboard
+/lib/sed/edit
+/nb/ecloud/20120525
+0123456789
 :0,$
->os aspell pipe | sed '/^[ 	*]*$/d'
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Edit ,|sort|uniq
+Edit s,(9x15),../../10646/9x15/\1,g
 Font /fonts/10646/9x15/9x15.font	# dot-matrix printer, !unicode
 Font /fonts/lucida/unicode.10.font 	# big
 Font /fonts/lucida/unicode.20.font 	# over shoulder
@@ -8,13 +15,26 @@ Font /fonts/lucidasans/unicode.6.font	# overview code
 Font /fonts/vera/Vera/9x15.14.font 	# edit files
 Font /fonts/vera/Vera/unimono.14.font	# 9x15.font fill
 Font /fonts/vera/veramono/veramono.14.font	# +mono, -unicode
-Man 1 diff
+Man 1 expr
 Man diff
+abcdefghijklmnopqrstuvwxyz
+load expr; echo ${expr 0 15 seq}
+load expr; apply {cp=$1; echo ${expr $cp 57344 +}} ${expr 0 15 seq}
+load expr; apply {unicode $1} `{apply {cp=$1; echo 16o16i $cp E700 + p | os dc} ${expr 0 15 seq}} | fmt
+Inferno sh code to print the first 3 16-character sets in unicode block E700, with some help from the host's dc:
+apply {l=$1; load expr; apply {unicode $1} `{apply {c=$1; echo 16o16i $l $c + p | os dc} ${expr 0 9 seq} A B C D E F} | fmt} E700 E710 E720
+e↑iτ cœlacanth mediæval résumé noöp
+grep 'capital letter c' /lib/keyboard
+grep 'small letter c' /lib/keyboard
+http://cstein.kings.cam.ac.uk/~chris/unicode/
+ls -F | mc
+ls -tr
+echo '16i E000 p' | osd dc
+unicode ͥ
 |fmt -w 1 | sort | uniq | fmt -w 1000
 |sed '/^$/d' |edit |fmt -w 72
 |sed '/^[ 	]*$/d'
 |sed 's,^[ 	]+,,'
 |sed -f /lib/sed/edit
-|sort|uniq
 |tr 'anihdyujgcvpmlsrxo;kf.,bt/' 'abcdefghijklmnopqrstuvwxyz'
 |tr A-Z a-z

@@ -1,0 +1,67 @@
+
+Runic Transliteration Tables in UTF-8
+=======================================
+
+Send comments and corrections to:
+         Christian Steinruecken <tcs27 [at] cl.cam.ac.uk>
+
+
+                  +----(Germanic Futhark)----+
+                  |                          |
+                  |  ᚠ  ᚢ  ᚦ  ᚨ  ᚱ  ᚲ  ᚷ  ᚹ  |
+                  |  f  u th  a  r  k  g  w  |
+                  |                          |
+                  |  ᚺ  ᚾ  ᛁ  ᛃ  ᛇ  ᛈ  ᛉ  ᛋ  |
+                  |  h  n  i  j  ï  p  z  s  |
+                  |                          |
+                  |  ᛏ  ᛒ  ᛖ  ᛗ  ᛚ  ᛜ  ᛞ  ᛟ  |
+                  |  t  b  e  m  l ng  d  o  |
+                  |                          |
+                  +--------------------------+
+
+   ===========================================================
+    A B C D E F G H I Ï J K L M N Ŋ O P Q R S T U V W X Y Z Þ
+    ᚨ ᛒ   ᛞ ᛖ ᚠ ᚷ ᚺ ᛁ ᛇ ᛃ ᚲ ᛚ ᛗ ᚾ ᛜ ᛟ ᛈ   ᚱ ᛋ ᛏ ᚢ   ᚹ     ᛉ ᚦ
+   ===========================================================
+
+
+The tables are taken from "The World's Writing Systems" by
+Peter Daniels and William Bright.  The Anglo-Saxon table below
+is based on the Vienna Codex:
+
+
+
+               +-----(Anglo-Saxon Futhorcs)-----+
+               |                                |
+               |  ᚠ  ᚢ  ᚦ  ᚩ  ᚱ  ᚳ  ᚷ  ᚹ  ᚻ  ᚾ  |
+               |  f  u  þ  o  r  c  g  w  h  n  |
+               |                                |
+               |  ᛁ  ᛄ  ᛇ  ᛈ  ᛉ  ᛋ  ᛏ  ᛒ  ᛖ  ᛗ  |
+               |  i  j  ih p  x  s  t  b  e  m  |
+               |                                |
+               |  ᛚ  ᛝ  ᛞ  ᛟ  ᚪ  ᚫ     ᛠ  ᚣ     |
+               |  l  ŋ  d  œ  a  æ     ea y     |
+               |                                |
+               +--------------------------------+
+
+=================================================================
+ A Æ B C D E   F G H I J   K L M N Ŋ O Œ P Q R S T U V W X Y Z Þ
+ ᚪ ᚫ ᛒ ᚳ ᛞ ᛖ ᛠ ᚠ ᚷ ᚻ ᛁ ᛄ ᛇ   ᛚ ᛗ ᚾ ᛝ ᚩ ᛟ ᛈ   ᚱ ᛋ ᛏ ᚢ   ᚹ ᛉ ᚣ   ᚦ
+=================================================================
+
+
+
+To conclude, here is a table of the runes section as defined
+in the Unicode Standard (16A0 - 16FF):
+
+SECTION "Runic"
+Pos      |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f  |
+---------+--------------------------------------------------+--
+U+16A0   |  ᚠ  ᚡ  ᚢ  ᚣ  ᚤ  ᚥ  ᚦ  ᚧ  ᚨ  ᚩ  ᚪ  ᚫ  ᚬ  ᚭ  ᚮ  ᚯ  |
+U+16B0   |  ᚰ  ᚱ  ᚲ  ᚳ  ᚴ  ᚵ  ᚶ  ᚷ  ᚸ  ᚹ  ᚺ  ᚻ  ᚼ  ᚽ  ᚾ  ᚿ  |
+U+16C0   |  ᛀ  ᛁ  ᛂ  ᛃ  ᛄ  ᛅ  ᛆ  ᛇ  ᛈ  ᛉ  ᛊ  ᛋ  ᛌ  ᛍ  ᛎ  ᛏ  |
+U+16D0   |  ᛐ  ᛑ  ᛒ  ᛓ  ᛔ  ᛕ  ᛖ  ᛗ  ᛘ  ᛙ  ᛚ  ᛛ  ᛜ  ᛝ  ᛞ  ᛟ  |
+U+16E0   |  ᛠ  ᛡ  ᛢ  ᛣ  ᛤ  ᛥ  ᛦ  ᛧ  ᛨ  ᛩ  ᛪ  ᛫  ᛬  ᛭  ᛮ  ᛯ  |
+U+16F0   |  ᛰ  ᛱ  ᛲ  ᛳ  ᛴ  ᛵ  ᛶ  ᛷ  ᛸ  ᛹  ᛺  ᛻  ᛼  ᛽  ᛾  ᛿  |
+---------+--------------------------------------------------+--
+

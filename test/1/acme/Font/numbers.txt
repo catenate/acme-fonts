@@ -1,0 +1,40 @@
+
+Numbers in various writing systems  (UTF-8 encoded)
+Author: Christian Steinruecken <tcs27@cl.cam.ac.uk>
+
+   0  1  2  3  4  5  6  7  8  9  A  B  ╷
+  ═════════════════════════════════════╪══════════════════════════
+   0  1  2  3  4  5  6  7  8  9        │ European
+   ٠  ١  ٢  ٣  ٤  ٥  ٦  ٧  ٨  ٩        │ Default Arabic-Indic
+   ۰  ۱  ۲  ۳  ۴  ۵  ۶  ۷  ۸  ۹        │ Eastern Arabic-Indic
+   ๐  ๑  ๒  ๓  ๔  ๕  ๖  ๗  ๘  ๙        │ Thai
+   ໐  ໑  ໒  ໓  ໔  ໕  ໖  ໗  ໘  ໙        │ Lao
+      ፩  ፪  ፫  ፬  ፭  ፮  ፯  ፰  ፱        │ Ethiopic
+   ০  ১  ২  ৩  ৪  ৫  ৬  ৭  ৮  ৯        │ Bengali
+   ०  १  २  ३  ४  ५  ६  ७  ८  ९        │ Devanagari
+   ૦  ૧  ૨  ૩  ૪  ૫  ૬  ૭  ૮  ૯        │ Gujarati
+   ୦  ୧  ୨  ୩  ୪  ୫  ୬  ୭  ୮  ୯        │ Oriya
+      ௧  ௨  ௩  ௪  ௫  ௬  ௭  ௮  ௯        │ Tamil
+   ౦  ౧  ౨  ౩  ౪  ౫  ౬  ౭  ౮  ౯        │ Telugu
+   ੦  ੧  ੨  ੩  ੪  ੫  ੬  ੭  ੮  ੯        │ Gurmukhi
+   ༠  ༡  ༢  ༣  ༤  ༥  ༦  ༧  ༨  ༩        │ Tibetan
+   ༪  ༫  ༬  ༭  ༮  ༯  ༰  ༱  ༲  ༳        │ Tibetan Halfdigits
+   ០  ១  ២  ៣  ៤  ៥  ៦  ៧  ៨  ៩        │ Khmer
+   ᠐  ᠑  ᠒  ᠓  ᠔  ᠕  ᠖  ᠗  ᠘  ᠙        │ Mongolian
+   ０ １ ２ ３ ４ ５ ６ ７ ８ ９       │ European CJK Fullwidth
+                           │ Tengwar
+  ─────────────────────────────────────┼──────────────────────────
+      Ⅰ  Ⅱ  Ⅲ  Ⅳ  Ⅴ  Ⅵ  Ⅶ  Ⅷ  Ⅸ  Ⅹ  Ⅺ  │ Roman (capital)
+      ⅰ  ⅱ  ⅲ  ⅳ  ⅴ  ⅵ  ⅶ  ⅷ  ⅸ  ⅹ  ⅺ  │ Roman (small)
+   ₀  ₁  ₂  ₃  ₄  ₅  ₆  ₇  ₈  ₉        │ Subscript
+   ⁰  ¹  ²  ³  ⁴  ⁵  ⁶  ⁷  ⁸  ⁹        │ Superscript
+   ⓪  ①  ②  ③  ④  ⑤  ⑥  ⑦  ⑧  ⑨  ⑩  ⑪  │ Circled Digits
+      ⑴  ⑵  ⑶  ⑷  ⑸  ⑹  ⑺  ⑻  ⑼  ⑽  ⑾  │ Paranthetic Digits
+   ⓿  ❶  ❷  ❸  ❹  ❺  ❻  ❼  ❽  ❾  ❿  ⓫  │ Inverted Circled Digits
+      ⒈  ⒉  ⒊  ⒋  ⒌  ⒍  ⒎  ⒏  ⒐  ⒑  ⒒  │ Dotted Digits
+      ⓵  ⓶  ⓷  ⓸  ⓹  ⓺  ⓻  ⓼  ⓽  ⓾     │ Double Circled Digits
+      ➀  ➁  ➂  ➃  ➄  ➅  ➆  ➇  ➈  ➉     │ Dingbats: sans, circled
+      ➊  ➋  ➌  ➍  ➎  ➏  ➐  ➑  ➒  ➓     │ Dingbats: sans, inv circ
+  ═════════════════════════════════════╪══════════════════════════
+
+

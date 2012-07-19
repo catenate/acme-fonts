@@ -1,0 +1,22 @@
+
+Glyphs of the Latin Alphabet, and Close Resemblants
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z  ASCII Capitals
+А В С   Е     Н І Ј К   М   О Р     Ѕ Т       Х      Cyrillic Capitals
+Α Β Ϲ   Ε     Η Ι   Κ   Μ Ν Ο Ρ       Τ       Χ Υ Ζ  Greek
+    Ⅽ Ⅾ         Ⅰ     Ⅼ Ⅿ                 Ⅴ   Ⅹ      Roman Numerals
+ᴀ в с ᴅ ᴇ     н   ᴊ к   м   о       ѕ т       х      Cyrillic + Phonetic
+ᴬ ᴮ   ᴰ ᴱ   ᴳ ᴴ ᴵ ᴶ ᴷ ᴸ ᴹ ᴺ ᴼ         ᵀ ᵁ   ᵂ        Phonetic
+a b c d e f g h i j k l m n o p q r s t u v w x y z  ASCII Minuscules
+а   с   е       і ј         о р     ѕ         х      Cyrillic Minuscules
+    ⅽ ⅾ         ⅰ     ⅼ ⅿ                 ⅴ   ⅹ      Roman Numerals
+ ͣ    ͨ  ͩ  ͤ      ͪ  ͥ        ͫ    ͦ      ͬ    ͭ  ͧ  ͮ    ͯ      Diacritical Marks
+Ⓐ Ⓑ Ⓒ Ⓓ Ⓔ Ⓕ Ⓖ Ⓗ Ⓘ Ⓙ Ⓚ Ⓛ Ⓜ Ⓝ Ⓞ Ⓟ Ⓠ Ⓡ Ⓢ Ⓣ Ⓤ Ⓥ Ⓦ Ⓧ Ⓨ Ⓩ  Encircled Capitals
+ⓐ ⓑ ⓒ ⓓ ⓔ ⓕ ⓖ ⓗ ⓘ ⓙ ⓚ ⓛ ⓜ ⓝ ⓞ ⓟ ⓠ ⓡ ⓢ ⓣ ⓤ ⓥ ⓦ ⓧ ⓨ ⓩ  Encircled Minuscules
+ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ Fullwidth Capitals
+ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ Fullwidth Minuscules
+
+Please email additions or corrections to:
+  Christian Steinruecken <tcs27 @ cl.cam.ac.uk>
+
+
