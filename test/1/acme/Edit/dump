@@ -1,0 +1,47 @@
+/
+/fonts/vera/Vera/9x15.14.font
+/fonts/misc/latin1.6x10.font
+          0          23          64
+f          0         160           0          45           1 
+        160          63         292           0           0 /github/acme-fonts/test/1/acme/Edit/Aide Del Snarf Undo | Look 
+f          0          99          43          60          75 
+         99          54         212           0           0 /gitco/notabene/sh-inferno/Aide Del Snarf Redo | Look 
+f          1         162        4857        4869           1 
+        162          70       40234           0           0 /github/acme-fonts/test/1/acme/Edit/sam_tut.txt Del Snarf Undo | Look 
+f          1         163         270         270           5 
+        163          77         270           0           0 /github/acme-fonts/test/1/acme/Edit/emacs.man Del Snarf Undo | Look Edit 0,$p
+f          2         154           0           0           1 
+        154          35          38           1           0 /test/1/acme/ Del Snarf Get | Look 
+f          2         155           6          14           3 
+        155          40          27           1           1 /test/1/acme/Edit/ Del Snarf Get | Look 
+f          2         159          23          34           5 
+        159          58          35           1           0 /github/acme-fonts/test/1/acme/Edit/ Del Snarf Get | Look 
+F          2           3        1441        1455           6        1455 
+        161          61        1455           0           1 /github/acme-fonts/test/1/acme/Edit/+Errors Del Snarf | Look 
+pdftotext version 0.12.4
+Copyright 2005-2009 The Poppler Developers - http://poppler.freedesktop.org
+Copyright 1996-2004 Glyph & Cog, LLC
+Usage: pdftotext [options] <PDF-file> [<text-file>]
+  -f <int>          : first page to convert
+  -l <int>          : last page to convert
+  -r <fp>           : resolution, in DPI (default is 72)
+  -x <int>          : x-coordinate of the crop area top left corner
+  -y <int>          : y-coordinate of the crop area top left corner
+  -W <int>          : width of crop area in pixels (default is 0)
+  -H <int>          : height of crop area in pixels (default is 0)
+  -layout           : maintain original physical layout
+  -raw              : keep strings in content stream order
+  -htmlmeta         : generate a simple HTML file, including the meta information
+  -enc <string>     : output text encoding name
+  -listenc          : list available encodings
+  -eol <string>     : output end-of-line convention (unix, dos, or mac)
+  -nopgbrk          : don't insert page breaks between pages
+  -opw <string>     : owner password (for encrypted files)
+  -upw <string>     : user password (for encrypted files)
+  -q                : don't print any messages or errors
+  -v                : print copyright and version info
+  -h                : print usage information
+  -help             : print usage information
+  --help            : print usage information
+  -?                : print usage information
+New emacs.man

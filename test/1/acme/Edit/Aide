@@ -1,0 +1,9 @@
+Dump /github/acme-fonts/test/1/acme/Edit/dump
+Edit ,|sort|uniq
+Load /github/acme-fonts/test/1/acme/Edit/dump
+host which pdftotext
+host yum search poppler-utils
+host sudo yum install poppler-utils
+host rpm -ql poppler-utils
+host pdftotext --help
+host pdftotext -layout sam_tut.pdf sam_tut.txt

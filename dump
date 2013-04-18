@@ -1,735 +1,590 @@
-/git
+/
 /fonts/vera/Vera/9x15.14.font
-/fonts/lucidasans/unicode.6.font
-          0          29
-f          0           1          98         156           1 
-          1          34         156           0           0 /fonts/Aide Del Snarf Undo | Look 
-f          0           2          12          37           3 
-          2          43         275           0           0 /git/acme-fonts/Aide Del Snarf Undo | Look 
-f          0           3        1309        1309          97 
-          3          66        1510           0           0 /git/acme-fonts/test/1/acme/Font/fonts Del Snarf Undo Redo | Look 
-f          1           6         521         567           1 
-          6          47        8399           0           0 /fonts/vera/Vera/9x15.14.font Del Snarf | Look 
-f          1           8        1026        1072           3 
-          8          50        6176           0           0 /fonts/vera/Vera/unimono.14.font Del Snarf | Look 
-F          1           2       16903       16916           5       17111 
-         13          72       17111           0           1 /git/acme-fonts/test/1/acme/Font/+Errors Del Snarf Undo Redo Put | Look 
-04d2
-alphabets.txt	diaeresis.txt	diæresis		fonts		utf8sampler
-alphabets.txt	diæresis		utf8sampler
-diaeresis.txt	fonts		utf8super.txt
-alphabets.txt	diæresis		rm iroha.txt utf8super.txt
-alphabets.txt	diæresis		iroha		utf8super
-rm diaeresis.txt	fonts		utf8sampler
-alphabets.txt	fonts		utf8sampler
-diæresis		iroha		utf8super
-alphabets.txt	fonts		runic.txt		utf8sampler
-diæresis		iroha		utf8runes.txt	utf8super
-alphabets.txt	fulltable.txt	runic.txt		utf8sampler
-diæresis		iroha		tengwar.txt	utf8super
-fonts		ring.txt		utf8runes.txt
-alphabets.txt	fonts		ring.txt		utf8runes.txt
-charsets.txt	fulltable.txt	runic.txt		utf8sampler
-diæresis		iroha		tengwar.txt	utf8super
-alphabets.txt	fonts		latinres.txt	runic.txt		utf8sampler
-charsets.txt	fulltable.txt	numbers.txt	tengwar.txt	utf8super
-diæresis		iroha		ring.txt		utf8runes.txt
-0365
-Font /fonts/vera/Vera/9x15.14.font
-ͥ
-alphabets.txt	fonts		latinres.txt	runic.txt		utf8sampler
-charsets.txt	fulltable.txt	numbers.txt	tengwar.txt	utf8super
-diæresis		iroha		ring.txt		utf8runes.txt
-alphabets.txt	fulltable.txt	ring.txt		utf8boxes.txt
-charsets.txt	iroha		runic.txt		utf8runes.txt
-diæresis		latinres.txt	tengwar.txt	utf8sampler
-fonts		numbers.txt	utf8block.txt	utf8super
-alphabets.txt		latinres.txt		utf8block.txt
-charsets.txt		numbers.txt		utf8boxes.txt
-diæresis			ring.txt			utf8runes.txt
-fonts			runic.txt			utf8sampler
-fulltable.txt		tengwar.txt		utf8super
-iroha			mv utf8_to_latex.txt utf8_to_latex
-alphabets.txt	fulltable.txt	ring.txt		utf8block.txt	utf8super
-charsets.txt	iroha		runic.txt		utf8boxes.txt
-diæresis		latinres.txt	tengwar.txt	utf8runes.txt
-fonts		numbers.txt	utf8_to_latex	utf8sampler
-alphabets.txt	fulltable.txt	numbers.txt	utf8_to_latex	utf8sampler
-charsets.txt	greek.txt		ring.txt		utf8block.txt	utf8super
-diæresis		iroha		runic.txt		utf8boxes.txt
-fonts		latinres.txt	tengwar.txt	utf8runes.txt
-alphabets.txt	fonts		latinres.txt	tengwar.txt	utf8runes.txt
-charsets.txt	fulltable.txt	numbers.txt	utf8_to_latex	utf8sampler
-cyrillic.txt		greek.txt		ring.txt		utf8block.txt	utf8super
-diæresis		iroha		runic.txt		utf8boxes.txt
-rm alchemy.txt	diæresis		iroha		runic.txt		utf8boxes.txt
-alphabets.txt	fonts		latinres.txt	tengwar.txt	utf8runes.txt
-charsets.txt	fulltable.txt	numbers.txt	utf8_to_latex	utf8sampler
-cyrillic.txt		greek.txt		ring.txt		utf8block.txt	utf8super
-alphabets.txt	fonts		iroha		runic.txt		utf8boxes.txt
-charsets.txt	fulltable.txt	latinres.txt	tengwar.txt	utf8runes.txt
-cyrillic.txt		greek.txt		numbers.txt	utf8_to_latex	utf8sampler
-diæresis		hebrew.txt	ring.txt		utf8block.txt	utf8super
-alphabets.txt	fulltable.txt	latinres.txt	utf8_to_latex	utf8super
-charsets.txt	greek.txt		numbers.txt	utf8block.txt
-cyrillic.txt		hebrew.txt	ring.txt		utf8boxes.txt
-diæresis		iroha		runic.txt		utf8runes.txt
-fonts		latin_1.txt		tengwar.txt	utf8sampler
-alphabets.txt	fulltable.txt	latinres.txt	runic.txt		utf8runes.txt
-charsets.txt	greek.txt		letterlike.txt	tengwar.txt	utf8sampler
-cyrillic.txt		hebrew.txt	ligatures.txt	utf8_to_latex	utf8super
-diæresis		iroha		numbers.txt	utf8block.txt
-fonts		latin_1.txt		ring.txt		utf8boxes.txt
-alphabets.txt		latin_1.txt			runic.txt
-charsets.txt		latinres.txt		tengwar.txt
-cyrillic.txt			letterlike.txt		utf8_to_latex
-diæresis			ligatures.txt		utf8block.txt
-fonts			rm math_anum.txt		utf8boxes.txt
-fulltable.txt		mathop.txt		utf8runes.txt
-greek.txt			music.txt			utf8sampler
-hebrew.txt		numbers.txt		utf8super
-iroha			ring.txt
-sh: builtin seq not found
-1141 "Sh":fail:builtin not found
-0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
-unicode E000
-57345
-57346
-57347
-57348
-57349
-57350
-57351
-57352
-57353
-57354
-57355
-57356
-57357
-57358
-57359
-Man 1 unicode
-unicode: bad unicode value 57344
-
-sh: builtin expr not found
-1168 "Sh":fail:builtin not found
-sh: builtin expr not found
-1169 "Sh":fail:builtin not found
-57344
-57345
-57346
-57347
-57348
-57349
-57350
-57351
-57352
-57353
-57360
-57361
-57362
-57363
-57364
-57365
-E000
-E001
-E002
-E003
-E004
-E005
-E006
-E007
-E008
-E009
-E010
-E011
-E012
-E013
-E014
-E015
-usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
-E000
-E001
-E002
-E003
-E004
-E005
-E006
-E007
-E008
-E009
-E010
-E011
-E012
-E013
-E014
-E015
-usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
-usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
-usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
-usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
-usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
-usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
-usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
-usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
-usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
-usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
-usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
-usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
-usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
-usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
-usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
-usage: unicode { [-t] hex hex ... | hexmin-hexmax ... | [-n] char ... }
-unicode
-unicode
-unicode
-unicode
-unicode
-unicode
-unicode
-unicode
-unicode
-unicode
-unicode
-unicode
-unicode
-unicode
-unicode
-unicode
-unicode E000
-unicode E001
-unicode E002
-unicode E003
-unicode E004
-unicode E005
-unicode E006
-unicode E007
-unicode E008
-unicode E009
-unicode E010
-unicode E011
-unicode E012
-unicode E013
-unicode E014
-unicode E015
-               
-               
-alphabets.txt	fulltable.txt	latinres.txt	numbers.txt	utf8block.txt
-charsets.txt	greek.txt		letterlike.txt	ring.txt		utf8boxes.txt
-cyrillic.txt		hebrew.txt	ligatures.txt	runic.txt		utf8runes.txt
-diæresis		iroha		mathop.txt	tengwar.txt	utf8sampler
-fonts		latin_1.txt		music.txt		utf8_to_latex	utf8super
-UE000.txt		fulltable.txt	letterlike.txt	runic.txt		utf8sampler
-alphabets.txt	greek.txt		ligatures.txt	tengwar.txt	utf8super
-charsets.txt	hebrew.txt	mathop.txt	utf8_to_latex
-cyrillic.txt		iroha		music.txt		utf8block.txt
-diæresis		latin_1.txt		numbers.txt	utf8boxes.txt
-fonts		latinres.txt	ring.txt		utf8runes.txt
-               
-               
-               
-               
-               
-               
-               
-               
-               
-rm U0000.txt		charsets.txt	iroha		numbers.txt	utf8runes.txt
-U0020.txt		cyrillic.txt		latin_1.txt		ring.txt		utf8sampler
-rm  U0080.txt latin_1.txt			diæresis		latinres.txt	runic.txt		utf8super
-U0100.txt		fonts		letterlike.txt	tengwar.txt
-U0180.txt		fulltable.txt	ligatures.txt	utf8_to_latex
-UE000.txt		greek.txt		mathop.txt	utf8block.txt
-alphabets.txt	hebrew.txt	music.txt		utf8boxes.txt
-U0020.txt		cyrillic.txt		iroha		music.txt		utf8block.txt
-U0100.txt		diæresis		latin_1.txt		numbers.txt	utf8boxes.txt
-U0180.txt		fonts		latinres.txt	ring.txt		utf8runes.txt
-UE000.txt		fulltable.txt	letterlike.txt	runic.txt		utf8sampler
-alphabets.txt	greek.txt		ligatures.txt	tengwar.txt	utf8super
-charsets.txt	hebrew.txt	mathop.txt	utf8_to_latex
-U0020.txt		diæresis		mathop.txt	utf8block.txt
-rm U0100.txt	latin_a.txt			fonts		music.txt		utf8boxes.txt
-rm U0180.txt		latin_b.txt		fulltable.txt	latin_c.txt		numbers.txt	utf8runes.txt
-UE000.txt		greek.txt		latin_d.txt		ring.txt		utf8sampler
+/fonts/misc/latin1.6x10.font
+          0          21          63
+f          0           1         176         190           1 
+          1          23        1115           0           0 /Aide Del Snarf | Look 
+f          0           2         244         282           3 
+          2          34         282           0           0 /fonts/Aide Del Snarf | Look Undo 
+f          0           3           0           0           5 
+          3          39         279           1           0 /fonts/vera/Vera/ Del Snarf Get | Look 
+f          0           5         195         236           6 
+          5          44         236           0           0 /getco/ckx/dev/lbld46/Aide Del Snarf | Look 
+f          0           4        1229        1233           8 
+          4          50        1570           0           0 /gitco/notabene/jirabld/274/Aide Del Snarf | Look 
+f          0           7         993         997          10 
+          7          34        1237           0           0 /gitco/prod/Aide Del Snarf | Look 
+f          0           6          27          35          12 
+          6          62          35           0           0 /gitco/prod/Enterprise/Binaries/Release/Aide Del Snarf | Look 
+f          0           8          27          74          13 
+          8          52         163           0           0 /gitco/prod/Enterprise/Python/Aide Del Snarf | Look 
+f          0           9         147         167          15 
+          9          74         423           0           0 /gitco/prod/Enterprise/VC/gc_bmf_fixfast_quote_svc3/Aide Del Snarf | Look 
+f          0          10         216         226          17 
+         10          30         227           0           0 /github/Aide Del Snarf | Look 
+f          0          11          12          40          18 
+         11          46         290           0           0 /github/acme-fonts/Aide Del Snarf Undo | Look 
+f          0          12          95          99          98 
+         12          45         107           0           0 /test/1/python/hashlib/Aide Del Snarf | Look 
+f          1          13           0           0           1 
+         13          29         172           1           0 /fonts/ Del Snarf Get | Look 
+f          1          14           0           0           3 
+         14          35           6           1           0 /fonts/10646/ Del Snarf Get | Look 
+f          1          15           0           0           5 
+         15          40        2815           1           0 /fonts/10646/9x15/ Del Snarf Get | Look 
+f          1          16        3602        3631           6 
+         16          45        5429           0           0 /fonts/10646/9x15/9x15.font Del Snarf | Look 
+f          1          17           0           0           8 
+         17          34         106           1           0 /fonts/vera/ Del Snarf Get | Look 
+f          1          18          76          76          10 
+         18          69        2382           0           0 /gitco/prod/Enterprise/Python/set_exe_version.py Del Snarf | Look :31
+f          1          19           0           0          12 
+         19          74         271           1           0 /gitco/prod/Enterprise/VC/gc_bmf_fixfast_quote_svc3/ Del Snarf Get | Look 
+f          1          20        1416        1436          13 
+         20          99        1488           0           0 /gitco/prod/Enterprise/VC/gc_bmf_fixfast_quote_svc3/gc_bmf_fixfast_quote_svc3.pro Del Snarf | Look 
+f          1          21           0           0          15 
+         21          41          60           1           0 /github/acme-fonts/ Del Snarf Get | Look 
+f          1          27           0           0          17 
+         27          52           6           1           0 /github/acme-fonts/fonts/vera/ Del Snarf Get | Look 
+f          1          28          10          10          18 
+         28          57         289           1           0 /github/acme-fonts/fonts/vera/Vera/ Del Snarf Get | Look 
+f          1          29        5232        5232          20 
+         29          65        8399           0           0 /github/acme-fonts/fonts/vera/Vera/9x15.14.font Del Snarf | Look 
+f          1          30           0           0          22 
+         30          68       10031           0           0 /github/acme-fonts/fonts/vera/Vera/unicode.14.font Del Snarf | Look 
+f          1          22           0           0          24 
+         22          46           3           1           0 /github/acme-fonts/test/ Del Snarf Get | Look 
+f          1          23           0           0          25 
+         23          48           6           1           0 /github/acme-fonts/test/1/ Del Snarf Get | Look 
+f          1          24           0           0          27 
+         24          53          12           1           0 /github/acme-fonts/test/1/acme/ Del Snarf Get | Look 
+f          1          25           0           0          29 
+         25          58         581           1           0 /github/acme-fonts/test/1/acme/Font/ Del Snarf Get | Look 
+f          1          31         636         636          30 
+         31          64         636           0           0 /github/notabene/catenate/20130205.142243 Del Snarf | Look |fmt 
+f          1          32           0           0          32 
+         32          31       25111           0           0 /lib/keyboard Del Snarf | Look 
+f          1          26          34          34          34 
+         26          35          38           1           0 /test/1/acme/ Del Snarf Get | Look 
+f          1          33          68          68          36 
+         33          50          82           0           0 /test/1/python/hashlib/sha1.test Del Snarf | Look 
+f          1          34         191         428          37 
+         34          60         428           0           0 /test/1/python/hashlib/sha1sum.℘y Del Snarf | Look Font args
+f          1          35          64          64          39 
+         35          98          64           0           0 /test/1/python/hashlib/toascii.py.sed Del Snarf | Look Font |sort Font /fonts/10646/9x15/9x15.font
+f          1          36         393         393          41 
+         36          41         804           0           0 /usr/apprun/lib/wmsetup Del Snarf | Look 
+f          1          48         183         183          42 
+         48          40         599           1           1 /test/1/acme/Font/ Del Snarf Get | Look 
+F          2           0         260         320           1         320 
+         37          25         320           0           0 +Errors Del Snarf | Look 
+can't open /github/git.log: '/github/git.log' does not exist
+can't open font file /fontsvera/vera/vera.14.font: '/fontsvera' file does not exist
+/fonts/vera/Vera/unimono.14.font modified
+/fonts/vera/Vera/scratch modified
+/fonts/vera/Vera/9x15.14.font modified
+can't open /git/acme-fonts/dump: '/git' file does not exist
+F          2           1          98          98           6         142 
+         39          33         142           0           1 /github/+Errors Del Snarf | Look 
+Cloning into 'acme-fonts'...
+35957 "Sh":killed
+log nb
+log web
+New git.log
+Aide			credo/		nbindex		pfsh/
+acme-fonts/	nb.log		notabene/	web.log
+F          2           2        8294        8312          11        8312 
+         40          37        8312           0           1 /gitco/prod/+Errors Del Snarf | Look 
+34538 "Sh":fail:|no matches
+log git
+log manos
+log nb
+log nsh
+log git add Enterprise/Python/gtc/git/hooks/condense_logs
+log git checkout master
+log git checkout reviewed_by
+log git clean -nfd .
+log git commit -a -m 'BLD-161: Import issues seem resolved, so no longer skip tests.  Reviewed-by: <rhabrat@getcollc.com>'
+log git commit -a -m 'BLD-161: Skip code tests to test whether all import issues are resolved.  Reviewed-by: <rhabrat@getcollc.com>'
+log git commit -a -m 'BLD-264: Condense per-process pre-receive hook logs into a daily log.  Reviewed-by: <rhabrat@getcollc.com>'
+log git diff
+log git log
+log git log 3.09.3620..HEAD -- Enterprise/Python/bld
+log git log 3.09.3620..HEAD -- Enterprise/gcmake
+log git log 3.09.3625..HEAD -- Enterprise/Python/bld
+log git log 3.09.3625..HEAD -- Enterprise/gcmake
+log git log 3.09.3626..HEAD -- Enterprise/Python/bld
+log git log 3.09.3626..HEAD -- Enterprise/gcmake
+log git log Enterprise/VC/gc_sigmax_xdp_ildr/EuronextMessages.h
+log git pull --rebase
+log git pull origin bld-161
+log git pull origin bld-161 --rebase
+log git pull origin master
+log git push --force origin bld-161
+log git push origin bld-161
+log git push origin reviewed_by
+log git rebase master
+log git reflog show bld-161
+log git reset --hard 3.09.3619
+log git reset --hard 3.09.3626
+log git reset --hard 6b606e7
+log git show cf4404a
+log git show dc9a6cc
+  bld-161
+  bld229
+  remotes/origin/bld-161
+  remotes/origin/bld229
+?? Enterprise/Python/grep.log
+?? Enterprise/Python/set_exe_version.py.new
+?? Enterprise/VC/gc_bmf_fixfast_quote_svc3/build1.log
+?? Enterprise/VC/gc_bmf_fixfast_quote_svc3/build2.log
+?? Enterprise/VC/gc_bmf_fixfast_quote_svc3/build3.log
+?? Enterprise/VC/gc_bmf_fixfast_quote_svc3/python.log
 
-alphabets.txt	hebrew.txt	latinres.txt	runic.txt		utf8super
-charsets.txt	iroha		letterlike.txt	tengwar.txt
-cyrillic.txt		latin_1.txt		ligatures.txt	utf8_to_latex
-U0020.txt		fulltable.txt	rm latin_c.txt		numbers.txt	utf8runes.txt
-UE000.txt		greek.txt		rm latin_d.txt		ring.txt		utf8sampler
-alphabets.txt	hebrew.txt	latinres.txt	runic.txt		utf8super
-charsets.txt	iroha		letterlike.txt	tengwar.txt
-cyrillic.txt		latin_1.txt		ligatures.txt	utf8_to_latex
-diæresis		latin_a.txt		mathop.txt	utf8block.txt
-fonts		latin_b.txt		music.txt		utf8boxes.txt
-U0020.txt		fonts		latin_a.txt		music.txt		utf8block.txt
-UE000.txt		fulltable.txt	latin_b.txt		numbers.txt	utf8boxes.txt
-alphabets.txt	greek.txt		latinres.txt	ring.txt		utf8runes.txt
-charsets.txt	hebrew.txt	letterlike.txt	runic.txt		utf8sampler
-cyrillic.txt		iroha		ligatures.txt	tengwar.txt	utf8super
-diæresis		latin_1.txt		mathop.txt	utf8_to_latex
-U0020.txt			iroha			numbers.txt
-UE000.txt			latin_1.txt			ring.txt
-alphabets.txt		latin_a.txt			runic.txt
-charsets.txt		latin_b.txt			tengwar.txt
-cyrillic.txt			latinres.txt		utf8_to_latex
-diæresis			letterlike.txt		utf8block.txt
-fonts			ligatures.txt		utf8boxes.txt
-fulltable.txt		mathop.txt		utf8runes.txt
-greek.txt			music.txt			utf8sampler
-hebrew.txt		numberforms.txt	utf8super
-U0020.txt			latin_1.txt			numberforms.txt
-UE000.txt			latin_a.txt			numbers.txt
-alphabets.txt		latin_b.txt			ring.txt
-charsets.txt		latinres.txt		runic.txt
-cyrillic.txt			letterlike.txt		tengwar.txt
-diæresis			ligatures.txt		utf8_to_latex
-fonts			mathop.txt		utf8block.txt
-fulltable.txt		rm miscmath_a.txt miscmath_b.txt	utf8runes.txt
-hebrew.txt		misctech.txt		utf8sampler
-iroha			music.txt			utf8super
-U0020.txt			latin_1.txt			ring.txt
-UE000.txt			latin_a.txt			runic.txt
-alphabets.txt		latin_b.txt			tengwar.txt
-charsets.txt		latinres.txt		utf8_to_latex
-cyrillic.txt			letterlike.txt		utf8block.txt
-diæresis			ligatures.txt		utf8boxes.txt
-fonts			mathop.txt		utf8runes.txt
-fulltable.txt		misctech.txt		utf8sampler
-greek.txt			music.txt			utf8super
-hebrew.txt		numberforms.txt
-iroha			numbers.txt
-U0020.txt			latin_a.txt			rm punctuation2.txt
-UE000.txt			latin_b.txt			ring.txt
-alphabets.txt		latinres.txt		runic.txt
-charsets.txt		letterlike.txt		tengwar.txt
-cyrillic.txt			ligatures.txt		utf8_to_latex
-diæresis			mathop.txt		utf8block.txt
-fonts			misctech.txt		utf8boxes.txt
-fulltable.txt		music.txt			utf8runes.txt
-greek.txt			numberforms.txt	utf8sampler
-hebrew.txt		numbers.txt		utf8super
-iroha			rm phonetic.txt
-latin_1.txt			punctuation.txt
-U0020.txt			latin_1.txt			punctuation.txt
-UE000.txt			latin_a.txt			ring.txt
-alphabets.txt		latin_b.txt			runic.txt
-charsets.txt		latinres.txt		tengwar.txt
-cyrillic.txt			letterlike.txt		utf8_to_latex
-diæresis			ligatures.txt		utf8block.txt
-fonts			mathop.txt		utf8boxes.txt
-fulltable.txt		misctech.txt		utf8runes.txt
-greek.txt			music.txt			utf8sampler
-hebrew.txt		numberforms.txt	utf8super
-iroha			numbers.txt
-utf8sampler
-diæresis
-alphabets.txt
-utf8super
-iroha
-runic.txt
-utf8runes.txt
-tengwar.txt
-ring.txt
-fulltable.txt
-charsets.txt
-numbers.txt
-latinres.txt
-utf8boxes.txt
-utf8block.txt
-utf8_to_latex
-greek.txt
-cyrillic.txt
-hebrew.txt
-latin_1.txt
-ligatures.txt
-letterlike.txt
-mathop.txt
-music.txt
-UE000.txt
-fonts
-U0020.txt
-latin_a.txt
-latin_b.txt
-numberforms.txt
-misctech.txt
-punctuation.txt
-supersub.txt
-ipa.txt
-rm hexagram.txt
-geometric.txt
-currency.txt
-arabic.txt
-rm braille.txt
-rm cherokee.txt
-utf8sampler
-diæresis
-alphabets.txt
-utf8super
-iroha
-runic.txt
-utf8runes.txt
-tengwar.txt
-ring.txt
-fulltable.txt
-charsets.txt
-numbers.txt
-latinres.txt
-utf8boxes.txt
-utf8block.txt
-utf8_to_latex
-greek.txt
-cyrillic.txt
-New ipa
+Switched to a new branch 'bld273'
+jira bld 274
+failed to create drawable
+Created new window in existing browser session.
+Switched to a new branch 'bld274'
+log git add Enterprise/Python/gtc/git/hooks/condense_logs
+log git checkout -b bld273
+log git checkout -b bld274
+log git checkout bld-161
+log git checkout master
+log git checkout reviewed_by
+log git clean -nfd .
+log git commit -a -m 'BLD-161: Import issues seem resolved, so no longer skip tests.  Reviewed-by: <rhabrat@getcollc.com>'
+log git commit -a -m 'BLD-161: Skip code tests to test whether all import issues are resolved.  Reviewed-by: <rhabrat@getcollc.com>'
+log git commit -a -m 'BLD-264: Condense per-process pre-receive hook logs into a daily log.  Reviewed-by: <rhabrat@getcollc.com>'
+log git diff
+log git pull --rebase
+log git pull origin bld-161
+log git pull origin bld-161 --rebase
+log git pull origin master
+log git push --force origin bld-161
+log git push origin bld-161
+log git push origin reviewed_by
+log git rebase master
+log git reflog show bld-161
+log git reset --hard 3.09.3619
+log git reset --hard 3.09.3626
+log git reset --hard 6b606e7
+log git show cf4404a
+log git show dc9a6cc
+log git add Enterprise/Python/gtc/git/hooks/condense_logs
+log git checkout -b bld273
+log git checkout -b bld274
+log git checkout bld-161
+log git checkout master
+log git checkout reviewed_by
+log git clean -nfd .
+log git diff
+log git pull --rebase
+log git pull origin bld-161
+log git pull origin bld-161 --rebase
+log git pull origin master
+log git push --force origin bld-161
+log git push origin bld-161
+log git push origin reviewed_by
+log git rebase master
+log git reflog show bld-161
+log git reset --hard 3.09.3619
+log git reset --hard 3.09.3626
+log git reset --hard 6b606e7
+log git show cf4404a
+log git show dc9a6cc
+?? Enterprise/Python/grep.log
+?? Enterprise/Python/set_exe_version.py.new
+?? Enterprise/VC/gc_bmf_fixfast_quote_svc3/build1.log
+?? Enterprise/VC/gc_bmf_fixfast_quote_svc3/build2.log
+?? Enterprise/VC/gc_bmf_fixfast_quote_svc3/build3.log
+?? Enterprise/VC/gc_bmf_fixfast_quote_svc3/python.log
 
-hebrew.txt
-latin_1.txt
-ligatures.txt
-letterlike.txt
-mathop.txt
-music.txt
-UE000.txt
-fonts
-U0020.txt
-latin_a.txt
-latin_b.txt
-numberforms.txt
-misctech.txt
-punctuation.txt
-supersub.txt
-ipa.txt
-geometric.txt
-currency.txt
-arabic.txt
-ascii.txt
-arrows.txt
-utf8sampler
-diæresis
-alphabets.txt
-utf8super
-iroha
-runic.txt
-utf8runes.txt
-tengwar.txt
-ring.txt
-fulltable.txt
-charsets.txt
-numbers.txt
-latinres.txt
-utf8boxes.txt
-utf8block.txt
-utf8_to_latex
-greek.txt
-cyrillic.txt
-hebrew.txt
-latin_1.txt
-ligatures.txt
-letterlike.txt
-mathop.txt
-music.txt
-UE000.txt
-fonts
-U0020.txt
-latin_a.txt
-latin_b.txt
-numberforms.txt
-misctech.txt
-punctuation.txt
-supersub.txt
-ipa.txt
-geometric.txt
-currency.txt
-arabic.txt
-ascii.txt
-arrows.txt
-spacing.txt
-utf8sampler
-diæresis
-alphabets.txt
-utf8super
-iroha
-runic.txt
-utf8runes.txt
-tengwar.txt
-ring.txt
-fulltable.txt
-charsets.txt
-numbers.txt
-latinres.txt
-utf8boxes.txt
-utf8block.txt
-utf8_to_latex
-greek.txt
-cyrillic.txt
-hebrew.txt
-latin_1.txt
-ligatures.txt
-letterlike.txt
-mathop.txt
-music.txt
-rm UE000.txt
-fonts
-U0020.txt
-latin_a.txt
-latin_b.txt
-numberforms.txt
-misctech.txt
-punctuation.txt
-supersub.txt
-ipa.txt
-geometric.txt
-currency.txt
-arabic.txt
-ascii.txt
-arrows.txt
-spacing.txt
-phonetic.txt
-phoneticsupp.txt
-phonextsupp.txt
-utf8sampler
-diæresis
-alphabets.txt
-utf8super
-iroha
-runic.txt
-utf8runes.txt
-tengwar.txt
-ring.txt
-fulltable.txt
-charsets.txt
-numbers.txt
-latinres.txt
-utf8boxes.txt
-utf8block.txt
-utf8_to_latex
-greek.txt
-cyrillic.txt
-hebrew.txt
-latin_1.txt
-ligatures.txt
-letterlike.txt
-mathop.txt
-music.txt
-UE000.txt
-U0020.txt
-latin_a.txt
-latin_b.txt
-numberforms.txt
-misctech.txt
-punctuation.txt
-supersub.txt
-ipa.txt
-geometric.txt
-currency.txt
-arabic.txt
-ascii.txt
-arrows.txt
-spacing.txt
-phonetic.txt
-phoneticsupp.txt
-phonextsupp.txt
-UA700.txt
-fonts
-utf8sampler
-diæresis
-alphabets.txt
-utf8super
-iroha
-runic.txt
-utf8runes.txt
-tengwar.txt
-ring.txt
-fulltable.txt
-charsets.txt
-numbers.txt
-latinres.txt
-utf8boxes.txt
-utf8block.txt
-utf8_to_latex
-greek.txt
-cyrillic.txt
-hebrew.txt
-latin_1.txt
-ligatures.txt
-letterlike.txt
-mathop.txt
-music.txt
-U0020.txt
-latin_a.txt
-latin_b.txt
-numberforms.txt
-misctech.txt
-punctuation.txt
-supersub.txt
-ipa.txt
-geometric.txt
-currency.txt
-arabic.txt
-ascii.txt
-arrows.txt
-spacing.txt
-phonetic.txt
-phoneticsupp.txt
-phonextsupp.txt
-UA700.txt
-fonts
-private.txt
-               
-               
-               
-dc: stack empty
-dc: dc: stack empty
-dc: stack empty
-dc: stack empty
-dc: dc: stack empty
-dc: stack empty
-unicode: bad unicode value 1CE00
-          0000 0027 0062 0027 0028 0030 0031 0034 0032 0029
-0075 006e 0069 006d 0070 006c 0065 006d 0065 006e 0074 0065 0064 
-0027 0065 0027 0028 0030 0031 0034 0035 0029 0075 006e 0069 006d 0070
-006c 0065 006d 0065 006e 0074 0065 0064   
-dc: stack empty
-dc: dc: stack empty
-dc: stack empty
-dc: stack empty
-dc: dc: stack empty
-dc: stack empty
-unicode: bad unicode value 1CE20
-          0010 0027 0062 0027 0028 0030 0031 0034 0032 0029
-0075 006e 0069 006d 0070 006c 0065 006d 0065 006e 0074 0065 0064 
-0027 0065 0027 0028 0030 0031 0034 0035 0029 0075 006e 0069 006d 0070
-006c 0065 006d 0065 006e 0074 0065 0064   
-dc: stack empty
-dc: dc: stack empty
-dc: stack empty
-dc: stack empty
-dc: dc: stack empty
-unicode: bad unicode value 1CE40
-          0027 0062 0027 0028 0030 0031 0034 0032 0029 0075
-006e 0069 006d 0070 006c 0065 006d 0065 006e 0074 0065 0064  0027
-0065 0027 0028 0030 0031 0034 0035 0029 0075 006e 0069 006d 0070 006c
-0065 006d 0065 006e 0074 0065 0064   
-               
-               
-               
-utf8sampler
-diæresis
-alphabets.txt
-utf8super
-iroha
-runic.txt
-utf8runes.txt
-tengwar.txt
-ring.txt
-fulltable.txt
-charsets.txt
-numbers.txt
-latinres.txt
-utf8boxes.txt
-utf8block.txt
-utf8_to_latex
-greek.txt
-cyrillic.txt
-hebrew.txt
-latin_1.txt
-ligatures.txt
-letterlike.txt
-mathop.txt
-music.txt
-U0020.txt
-latin_a.txt
-latin_b.txt
-numberforms.txt
-misctech.txt
-punctuation.txt
-supersub.txt
-ipa.txt
-geometric.txt
-currency.txt
-arabic.txt
-ascii.txt
-arrows.txt
-spacing.txt
-phonetic.txt
-phoneticsupp.txt
-phonextsupp.txt
-UA700.txt
-private.txt
-fonts
-rm cuneiform.txt
-utf8sampler
-diæresis
-alphabets.txt
-utf8super
-iroha
-runic.txt
-utf8runes.txt
-tengwar.txt
-ring.txt
-fulltable.txt
-charsets.txt
-numbers.txt
-latinres.txt
-utf8boxes.txt
-utf8block.txt
-utf8_to_latex
-greek.txt
-cyrillic.txt
-hebrew.txt
-latin_1.txt
-ligatures.txt
-letterlike.txt
-mathop.txt
-music.txt
-U0020.txt
-latin_a.txt
-latin_b.txt
-numberforms.txt
-misctech.txt
-punctuation.txt
-supersub.txt
-ipa.txt
-geometric.txt
-currency.txt
-arabic.txt
-ascii.txt
-arrows.txt
-spacing.txt
-phonetic.txt
-phoneticsupp.txt
-phonextsupp.txt
-UA700.txt
-private.txt
-fonts
-rm cyrillic_a.txt cyrillic_b.txt
-U0020.txt			ipa.txt			phonextsupp.txt
-UA700.txt			iroha			private.txt
-alphabets.txt		latin_1.txt			punctuation.txt
-arabic.txt			latin_a.txt			ring.txt
-arrows.txt			latin_b.txt			runic.txt
-ascii.txt			latinres.txt		spacing.txt
-charsets.txt		letterlike.txt		supersub.txt
-currency.txt		ligatures.txt		tengwar.txt
-cyrillic.txt			mathop.txt		utf8_to_latex
-diæresis			misctech.txt		utf8block.txt
-fonts			music.txt			utf8boxes.txt
-fulltable.txt		numberforms.txt	utf8runes.txt
-geometric.txt		numbers.txt		utf8sampler
-greek.txt			phonetic.txt		utf8super
-hebrew.txt		phoneticsupp.txt
-New README
-README			hebrew.txt		phoneticsupp.txt
-U0020.txt			ipa.txt			phonextsupp.txt
-UA700.txt			iroha			private.txt
-alphabets.txt		latin_1.txt			punctuation.txt
-arabic.txt			latin_a.txt			ring.txt
-arrows.txt			latin_b.txt			runic.txt
-ascii.txt			latinres.txt		spacing.txt
-charsets.txt		letterlike.txt		supersub.txt
-currency.txt		ligatures.txt		tengwar.txt
-cyrillic.txt			mathop.txt		utf8_to_latex
-diæresis			misctech.txt		utf8block.txt
-fonts			music.txt			utf8boxes.txt
-fulltable.txt		numberforms.txt	utf8runes.txt
-geometric.txt		numbers.txt		utf8sampler
-greek.txt			phonetic.txt		utf8super
+?? Enterprise/Python/set_exe_version.py.new
+
+* bld274
+?? Enterprise/Python/set_exe_version.py.new
+
+ M Enterprise/Python/set_exe_version.py
+
+log git add Enterprise/Python/gtc/git/hooks/condense_logs
+log git checkout -b bld273
+log git checkout -b bld274
+log git checkout bld-161
+log git checkout master
+log git checkout reviewed_by
+log git clean -nfd .
+log git diff
+log git pull --rebase
+log git pull origin bld-161
+log git pull origin bld-161 --rebase
+log git pull origin master
+log git push --force origin bld-161
+log git push origin bld-161
+log git push origin reviewed_by
+log git rebase master
+log git reflog show bld-161
+log git reset --hard 3.09.3619
+log git reset --hard 3.09.3626
+log git reset --hard 6b606e7
+log git show cf4404a
+log git show dc9a6cc
+diff --git a/Enterprise/Python/set_exe_version.py b/Enterprise/Python/set_exe_version.py
+index b6e605c..bccf328 100755
+--- a/Enterprise/Python/set_exe_version.py
++++ b/Enterprise/Python/set_exe_version.py
+@@ -23,6 +23,15 @@ try :
+ except :
+     usage()
+ 
++def sha1sum(f_path):
++    h = hashlib.sha1()
++    f = file(f_path, 'rb')
++    while True :
++        dat = f.read(2048)
++        if len(dat) =? 0 : break
++        h.update(dat)
++    return h.hexdigest()
++
+ def set_elf_version(exe_path, major, minor, revision, incr, v_strings) :
+     e = elf.Elf(exe_path, os.O_RDWR)
+ 
+@@ -71,6 +80,7 @@ if options.add_str :
+             print 'no room to store %s' % k
+ v_strings += '\0'
+ 
++print sha1sum(exe_path) + '	' + exe_path
+ 
+ set_elf_version(exe_path, major, minor, revision, incr, v_strings)
+ 
+ M Enterprise/Python/set_exe_version.py
+
+ M Enterprise/Python/set_exe_version.py
+
+diff --git a/Enterprise/Python/set_exe_version.py b/Enterprise/Python/set_exe_version.py
+index b6e605c..484607b 100755
+--- a/Enterprise/Python/set_exe_version.py
++++ b/Enterprise/Python/set_exe_version.py
+@@ -1,6 +1,7 @@
+ #!/usr/bin/python
+ import sys
+ import elf, struct, optparse, os
++import hashlib
+ 
+ oparser = optparse.OptionParser()
+ oparser.add_option('-v', dest='debug', action='store_true')
+@@ -23,6 +24,15 @@ try :
+ except :
+     usage()
+ 
++def sha1sum(f_path):
++    h = hashlib.sha1()
++    f = file(f_path, 'rb')
++    while True :
++        dat = f.read(2048)
++        if len(dat) == 0 : break
++        h.update(dat)
++    return h.hexdigest()
++
+ def set_elf_version(exe_path, major, minor, revision, incr, v_strings) :
+     e = elf.Elf(exe_path, os.O_RDWR)
+ 
+@@ -71,6 +81,7 @@ if options.add_str :
+             print 'no room to store %s' % k
+ v_strings += '\0'
+ 
++print sha1sum(exe_path) + '	' + exe_path
+ 
+ set_elf_version(exe_path, major, minor, revision, incr, v_strings)
+ 
+[bld274 f3d7e81] BLD-274: Print SHA-1 sum of file before set_exe_version silently modifies it. +review @jorgensen Reviewed-by: <rhabrat@getcollc.com>
+ 1 file changed, 11 insertions(+)
+sh: l: './l' file does not exist
+35708 "Sh":fail:'./l' file does not exist
+commit f3d7e81d6b3ac6632166480242c0fab67fb661e4
+Author: Jason Catena <jcatena@getcollc.com>
+Date:   Tue Feb 5 15:11:56 2013 -0600
+
+    BLD-274: Print SHA-1 sum of file before set_exe_version silently modifies it. +review @jorgensen
+    Reviewed-by: <rhabrat@getcollc.com>
+
+commit f3a371a3f7e3d3496343fe40174856039dccc718
+Author: Jason Catena <jcatena@getcollc.com>
+Date:   Thu Jan 31 14:51:59 2013 -0600
+
+    BLD-264: Condense per-process pre-receive hook logs into a daily log.
+    Reviewed-by: <rhabrat@getcollc.com>
+
+commit ff78e6e84b97c42e58eb92019cb4c91219e7bad2
+Author: Rafal Habrat <rhabrat@getcollc.com>
+Date:   Tue Jan 29 14:58:26 2013 -0600
+
+    BLD-264 Fixed unit tests
+
+log git add Enterprise/Python/gtc/git/hooks/condense_logs
+log git checkout -b bld273
+log git checkout -b bld274
+log git checkout bld-161
+log git checkout master
+log git checkout reviewed_by
+log git clean -nfd .
+log git diff
+log git pull --rebase
+log git pull origin bld-161
+log git pull origin bld-161 --rebase
+log git pull origin master
+log git push --force origin bld-161
+log git push origin bld274
+log git push origin reviewed_by
+log git rebase master
+log git reflog show bld-161
+log git reset --hard 3.09.3619
+log git reset --hard 3.09.3626
+log git reset --hard 6b606e7
+log git show cf4404a
+log git show dc9a6cc
+remote: => Syncing Gitorious... [OK][K
+To git@git.getco.com:prod/prod.git
+ * [new branch]      bld274 -> bld274
+log git
+log manos
+log nb
+log nsh
+log web git.getco.com/prod/prod
+failed to create drawable
+Created new window in existing browser session.
+log git
+log manos
+log nb
+log nsh
+log web
+log web git.getco.com/prod/prod
+35732 "Sh":killed
+F          2           3        1086        1086          16        1086 
+         41          65        1086           0           1 /gitco/prod/Enterprise/Binaries/Release/+Errors Del Snarf | Look 
+log dos ./gcBMFFixFastQuoteSvc --version
+log dos ls -l gcBMFFixFastQuoteSvc
+log dos md5sum gcBMFFixFastQuoteSvc
+log dos python /usr/inferno/gitco/prod/Enterprise/Python/set_exe_version.py 3 09 3619 0 gcBMFFixFastQuoteSvc
+log dos sha1sum gcBMFFixFastQuoteSvc
+  File "/usr/inferno/gitco/prod/Enterprise/Python/set_exe_version.py", line 31
+    if len(dat) =? 0 : break
+                ^
+SyntaxError: invalid syntax
+  File "/usr/inferno/gitco/prod/Enterprise/Python/set_exe_version.py", line 31
+    if len(dat) =? 0 : break
+                ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/usr/inferno/gitco/prod/Enterprise/Python/set_exe_version.py", line 83, in <module>
+    print sha1sum(exe_path) + '	' + exe_path
+  File "/usr/inferno/gitco/prod/Enterprise/Python/set_exe_version.py", line 27, in sha1sum
+    h = hashlib.sha1()
+NameError: global name 'hashlib' is not defined
+727dc70867602988ff8150ee1b2986c93cd3a473	gcBMFFixFastQuoteSvc
+727dc70867602988ff8150ee1b2986c93cd3a473	gcBMFFixFastQuoteSvc
+727dc70867602988ff8150ee1b2986c93cd3a473	gcBMFFixFastQuoteSvc
+F          2           4         909        1037          18        1183 
+         42          44        1183           0           1 /github/acme-fonts/+Errors Del Snarf | Look 
+ M fonts/vera/Vera/9x15.14.font
+
+diff --git a/Aide b/Aide
+index e77710e..3730a8b 100644
+--- a/Aide
++++ b/Aide
+@@ -3,9 +3,10 @@ Dump /git/acme-fonts/dump
+ Edit ,|sort|uniq
+ Man 6 font
+ ls -F | mc
+-osd git add test
+-osd git commit -a -m 'Add unicode test files from Christian Steinruecken.'
+-osd git log --graph --oneline --all
+-osd git push origin master
+-osd git status
++git
++log git add test
++log git commit -a -m 'Add unicode test files from Christian Steinruecken.'
++log git log --graph --oneline --all
++log git push origin master
++log git status
+ test/1/acme/Font/fonts
+diff --git a/fonts/vera/Vera/9x15.14.font b/fonts/vera/Vera/9x15.14.font
+index 9faafd3..4478c82 100644
+--- a/fonts/vera/Vera/9x15.14.font
++++ b/fonts/vera/Vera/9x15.14.font
+@@ -113,10 +113,7 @@
+ 0x2100	0x213A	../../10646/9x15/9x15.2100-213A
+ 0x213D	0x214B	../../10646/9x15/9x15.213D-214B
+ 0x2153	0x2183	../../10646/9x15/9x15.2153-2183
+-0x2190	0x21EA	../../misc/arrows
+-0x2200	0x227F	../../misc/math1
+-0x2280	0x22F1	../../misc/math2
+-0x2300	0x232C	../../misc/tech
++0x2190	0x23CE	../../10646/9x15/9x15.2190-23CE
+ 0x2500	0x257F	../../misc/chart
+ 0x2580	0x25ff	../../misc/geometric
+ 0x2600	0x266F	../../misc/ding
+F          2           5         399         399          19         399 
+         44          47         399           0           1 /getco/ckx/dev/lbld46/+Errors Del Snarf | Look 
+cache directory                     /home/apprun/.ccache
+cache hit (direct)                  3917
+cache hit (preprocessed)               6
+cache miss                          5115
+compile failed                         4
+files in cache                     14605
+cache size                          21.8 Gbytes
+max files                         100000
+max cache size                      30.0 Gbytes
+F          2           6        2978        2983          21        2983 
+         46          48        2983           0           1 /test/1/python/hashlib/+Errors Del Snarf | Look 
+failed to create drawable
+Created new window in existing browser session.
+log web
+log web github.com/catenate/unicoper
+mv: can't stat sha1.test.out: 'sha1.test.out' file does not exist
+diff sha1.test.past sha1.test.out
+diff: can't stat sha1.test.past: 'sha1.test.past' file does not exist
+34942 "Sh":fail:error
+diff sha1.test.past sha1.test.out
+1,2c1,5
+< e27d56dfc462ca333f8081ed7b028f1a28797581	sha1.test
+< os: cannot exec: exec failed: No such file or directory
+---
+> dcaaa9463c3659a52e612cdac228463ef3e76e33	sha1.test
+> Traceback (most recent call last):
+>   File "sha1sum.py", line 5, in <module>
+>     if len(args) == 0:
+> NameError: name 'args' is not defined
+34960 "Sh":fail:some
+diff sha1.test.past sha1.test.out
+2,5c2,5
+< Traceback (most recent call last):
+<   File "sha1sum.℘y:5 <module>
+<     if len(args) == 0:
+< NameError: name 'args' is not defined
+---
+>   File "sha1sum.py", line 2
+>     print 'usage: %s $file' % $0
+>                               ^
+> SyntaxError: invalid syntax
+34997 "Sh":fail:some
+failed to create drawable
+Created new window in existing browser session.
+diff sha1.test.past sha1.test.out
+2,5c2,7
+<   File "sha1sum.py", line 2
+<     print 'usage: %s $file' % $0
+<                               ^
+< SyntaxError: invalid syntax
+---
+> Traceback (most recent call last):
+>   File "sha1sum.py", line 24, in <module>
+>     print sha1sum(exe_path), "	", exe_path
+>   File "sha1sum.py", line 16, in sha1sum
+>     h = hashlib.sha1()
+> NameError: global name 'hashlib' is not defined
+35046 "Sh":fail:some
+diff sha1.test.past sha1.test.out
+Binary files sha1.test.past sha1.test.out differ
+35067 "Sh":fail:some
+diff sha1.test.past sha1.test.out
+Binary files sha1.test.past sha1.test.out differ
+35088 "Sh":fail:some
+diff sha1.test.past sha1.test.out
+2c2,5
+< dcaaa9463c3659a52e612cdac228463ef3e76e33 	sha1.test
+---
+> Traceback (most recent call last):
+>   File "sha1sum.py", line 25, in <module>
+>     print '%s	%s' % sha1sum(exe_path), exe_path
+> TypeError: not enough arguments for format string
+35143 "Sh":fail:some
+log google python print format string
+failed to create drawable
+Created new window in existing browser session.
+diff sha1.test.past sha1.test.out
+2,5c2
+< Traceback (most recent call last):
+<   File "sha1sum.py", line 25, in <module>
+<     print '%s	%s' % sha1sum(exe_path), exe_path
+< TypeError: not enough arguments for format string
+---
+> dcaaa9463c3659a52e612cdac228463ef3e76e33	sha1.test
+35388 "Sh":fail:some
+log google
+log web
+log web github.com/catenate/unicoper
+failed to create drawable
+[30:30:0205/155726:ERROR:ppapi_thread.cc(237)] Failed to load Pepper module from /home/apprun/.config/google-chrome/PepperFlash/11.5.31.138/libpepflashplayer.so (error: /home/apprun/.config/google-chrome/PepperFlash/11.5.31.138/libpepflashplayer.so: cannot open shared object file: Permission denied)
+log google python exponentiation operator
+failed to create drawable
+Created new window in existing browser session.
+unicode ≠
+225f
+2265
+22bb
+2260
+F          2           7         256         256          27         566 
+         47          26         566           0           1 /+Errors Del Snarf | Look 
+grep dis /tmp/Aide
+grep fonts /tmp/Aide
+grep getco /tmp/Aide
+grep gitco /tmp/Aide
+grep github /tmp/Aide
+grep test /tmp/Aide
+grep tmp /tmp/Aide
+/getco/Aide
+/getco/Aide
+/getco/chidevbuild01/Aide
+/getco/ckx/Aide
+/getco/ckx/dev/build01/Aide
+/getco/ckx/dev/lbld46/Aide
+/getco/ckx/dev/pbldsl62/Aide
+/getco/ckx/dev/picbld/Aide
+/getco/ckx/dev/teng/Aide
+/getco/ckx/dev/tlbld46/Aide
+/getco/cno/d/dcap01/Aide
+/getco/cno/d/jccatena2/Aide
+/getco/cno/d/rhabrat2/Aide
+/getco/cno/d/schere2/Aide
+/getco/lab/Aide
+/getco/lab/r4/02/Aide
+/getco/lab/r4/03/Aide
+/getco/nbq/qnt/app133/Aide
+F          2           8          27          31          34          78 
+         45          32          78           0           1 /fonts/+Errors Del Snarf | Look 
+vera/Vera/unimono.14.font: 0x2264	0x2265	../../vera/veramono/veramono.14.2264
+F          2           9         589         637          35         637 
+         43          55         637           0           1 /gitco/prod/Enterprise/Python/+Errors Del Snarf | Look 
+25a26,34
+> def sha1sum(f_path):
+>     h = hashlib.md5()
+>     f = file(f_path, 'rb')
+>     while True :
+>         dat = f.read(2048)
+>         if len(dat) == 0 : break
+>         h.update(dat)
+>     return h.digest()
+> 
+34708 "Sh":fail:some
+mkdir /test/1/python
+mv /dis/pydoc /dis/ospwd
+unichar: not found
+34765 "Sh":fail:not found
+unichar y
+failed to create drawable
+Created new window in existing browser session.
+failed to create drawable
+Created new window in existing browser session.
+failed to create drawable
+Created new window in existing browser session.
+failed to create drawable
+Created new window in existing browser session.
+F          2          10          51          51          37          51 
+         38          53          51           0           1 /gitco/notabene/jirabld/274/+Errors Del Snarf | Look 
+log dos
+log google
+log manos
+log nsh
+log pydoc
+log 

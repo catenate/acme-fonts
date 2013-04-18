@@ -1,11 +1,12 @@
 /fonts/Aide
-Dump /git/acme-fonts/dump
+Dump /github/acme-fonts/dump
 Edit ,|sort|uniq
 Man 6 font
+git
+git add .
+git commit -a -m 'Display letters of first 31 characters.'
+git log --graph --oneline --all
+git push origin master
+log 1 git
 ls -F | mc
-osd git add test
-osd git commit -a -m 'Add unicode test files from Christian Steinruecken.'
-osd git log --graph --oneline --all
-osd git push origin master
-osd git status
 test/1/acme/Font/fonts
