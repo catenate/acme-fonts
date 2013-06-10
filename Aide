@@ -4,7 +4,7 @@ Edit ,|sort|uniq
 Man 6 font
 git
 git add .
-git commit -a -m 'Display letters of first 31 characters.'
+git commit -a -m 'Don''t need Edit in front of commands, since we can highlight text in a window, highlight a command, and 2-1 to apply it.'
 git log --graph --oneline --all
 git push origin master
 log 1 git

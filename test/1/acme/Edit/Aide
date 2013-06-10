@@ -7,3 +7,5 @@ host sudo yum install poppler-utils
 host rpm -ql poppler-utils
 host pdftotext --help
 host pdftotext -layout sam_tut.pdf sam_tut.txt
+ls -F | mc
+
