@@ -4,7 +4,8 @@ Edit ,|sort|uniq
 Man 6 font
 git
 git add --all .
-git commit -a -m 'Add pangram examples for a variety of languages.'
+git commit -a -m 'Switch back to lighter-weight accented characters for the usual font (Vera/9x15.14.font).'
+git diff
 git fetch
 git log --graph --oneline --all
 git push origin master
