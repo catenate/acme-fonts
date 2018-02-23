@@ -1,5 +1,4 @@
 .
-/emu/port/latin1.h
 /fonts/vera/Vera/9x15.14.font:5:0x0100	0x017E	../../pelm/latineur.9
 /fonts/vera/Vera/9x15.14.font:6:0x0100	0x01f0	../../lucida/EuroLatin.8.0
 /lib/keyboard
@@ -24,6 +23,8 @@ Man 1 expr
 Man diff
 abcdefghijklmnopqrstuvwxyz
 apply {l=$1; load expr; apply {unicode $1} `{apply {c=$1; echo 16o16i $l $c + p | os dc} ${expr 0 9 seq} A B C D E F} | fmt} E700 E710 E720
+cp /emu/port/latin1.h .
+diff latin1.h /emu/port/latin1.h
 echo '16i E000 p' | osd dc
 e↑iτ cœlacanth mediæval résumé noöp
 grep 'capital letter c' /lib/keyboard

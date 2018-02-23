@@ -4,7 +4,7 @@ Edit ,|sort|uniq
 Man 6 font
 git
 git add --all .
-git commit -a -m 'Add latin1.h to keep it between instances, and add dice as #1 (⚀) to #6 (⚅).'
+git commit -a -m 'Add keyboard abbreviations for some obsolete letters.'
 git diff
 git diff --staged
 git fetch
