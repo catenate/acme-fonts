@@ -4,7 +4,7 @@ Edit ,|sort|uniq
 Man 6 font
 git
 git add --all .
-git commit -a -m 'Add keyboard abbreviations for some obsolete letters.'
+git commit -a -m 'Add a list of words with diacritics.'
 git diff
 git diff --staged
 git fetch
