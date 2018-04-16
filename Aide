@@ -4,7 +4,7 @@ Edit ,|sort|uniq
 Man 6 font
 git
 git add --all .
-git commit -a -m 'Add Hebrew keyboard shortcuts.'
+git commit -a -m 'Adjust Hebrew keyboard shortcuts.'
 git diff
 git diff --staged
 git fetch
