@@ -24,6 +24,8 @@ Man diff
 abcdefghijklmnopqrstuvwxyz
 apply {l=$1; load expr; apply {unicode $1} `{apply {c=$1; echo 16o16i $l $c + p | os dc} ${expr 0 9 seq} A B C D E F} | fmt} E700 E710 E720
 cp /emu/port/latin1.h .
+cp /n/local/home/jcatena/.aspell.en.pws .
+diff .aspell.en.pws /n/local/home/jcatena/.aspell.en.pws
 diff latin1.h /emu/port/latin1.h
 echo '16i E000 p' | osd dc
 e↑iτ cœlacanth mediæval résumé noöp
@@ -38,6 +40,8 @@ load expr; echo ${expr 0 15 seq}
 ls -F | mc
 ls -tr
 unicode ͥ
+web 'https://en.wikipedia.org/wiki/English_terms_with_diacritical_marks'
+web 'https://en.wiktionary.org/wiki/Appendix:English_words_with_diacritics'
 |fmt -w 1 | sort | uniq | fmt -w 1000
 |sed '/^$/d' |edit |fmt -w 72
 |sed '/^[ 	]*$/d'
@@ -46,3 +50,4 @@ unicode ͥ
 |sed -f /lib/sed/editc
 |tr 'anihdyujgcvpmlsrxo;kf.,bt/' 'abcdefghijklmnopqrstuvwxyz'
 |tr A-Z a-z
+nb canyon
