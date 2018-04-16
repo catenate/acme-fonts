@@ -2,17 +2,18 @@
 Dump /github/acme-fonts/dump
 Edit ,|sort|uniq
 Man 6 font
+cp /emu/port/latin1.h test/1/acme/Font
 git
 git add --all .
-git commit -a -m 'Adjust Hebrew keyboard shortcuts.'
+git commit -a -m 'Update and resort Aide.'
 git diff
 git diff --staged
 git fetch
 git log --graph --oneline --all
 git push origin master
+git show 6a460cb
 log 1 git
 ls -F | mc
-test/1/acme/Font/fonts
 test/1/acme/Edit/Aide
 test/1/acme/Font/Aide
-cp /emu/port/latin1.h test/1/acme/Font
+test/1/acme/Font/fonts
