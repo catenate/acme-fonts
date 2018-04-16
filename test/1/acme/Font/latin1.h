@@ -12,7 +12,7 @@
 	"%t", "hst",	"טצת",
 	"%s", "hs",	"שס",
 	"%a", "ehy",	"אהע",
-	"%", "bgdhvzyklmnpqr",	"בגדוזיכלמנפקר",
+	"%", "bgdvzyklmnpqr",	"בגדוזיכלמנפקר",
 	"\'\"", "Uu",	"Ǘǘ",
 	"\'", "\'ACEILNORSUYZacegilnorsuyz",	"´ÁĆÉÍĹŃÓŔŚÚÝŹáćéģíĺńóŕśúýź",
 	"*", "*ABCDEFGHIKLMNOPQRSTUWXYZabcdefghiklmnopqrstuwxyz",	"∗ΑΒΞΔΕΦΓΘΙΚΛΜΝΟΠΨΡΣΤΥΩΧΗΖαβξδεφγθικλμνοπψρστυωχηζ",

@@ -5,7 +5,7 @@ Man 6 font
 cp /emu/port/latin1.h test/1/acme/Font
 git
 git add --all .
-git commit -a -m 'Update and resort Aide.'
+git commit -a -m 'Remove h from % keys.'
 git diff
 git diff --staged
 git fetch
