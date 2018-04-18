@@ -5,10 +5,11 @@ Man 6 font
 cp /emu/port/latin1.h test/1/acme/Font
 git
 git add --all .
-git commit -a -m 'Remove h from % keys.'
+git commit -a -m 'Fix a sounds.  Add excerpt on asham.'
 git diff
 git diff --staged
 git fetch
+git log --decorate --oneline | sed 50q
 git log --graph --oneline --all
 git push origin master
 git show 6a460cb
