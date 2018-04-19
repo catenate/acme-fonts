@@ -5,7 +5,7 @@ Man 6 font
 cp /emu/port/latin1.h test/1/acme/Font
 git
 git add --all .
-git commit -a -m 'Fix a sounds.  Add excerpt on asham.'
+git commit -a -m 'Store keyboard shortcuts.  Add hebrew ligatures and punctuation.'
 git diff
 git diff --staged
 git fetch
