@@ -1,57 +1,82 @@
-	 exit
-.
-/fonts/vera/Vera/9x15.14.font:5:0x0100	0x017E	../../pelm/latineur.9
-/fonts/vera/Vera/9x15.14.font:6:0x0100	0x01f0	../../lucida/EuroLatin.8.0
-/github/acme-fonts/Aide
-/lib/keyboard
-/lib/sed/edit
-/lib/unicode
-/nb/ecloud/20120525
-0123456789
-:0,$
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-Edit ,|sort|uniq
-Edit s,(9x15),../../10646/9x15/\1,g
-Font /fonts/10646/9x15/9x15.font	# dot-matrix printer, !unicode
-Font /fonts/lucida/unicode.10.font 	# big
-Font /fonts/lucida/unicode.20.font 	# over shoulder
-Font /fonts/lucida/unicode.32.font 	# across the room
-Font /fonts/lucidasans/unicode.6.font	# overview code
-Font /fonts/vera/Vera/9x15.14.font 	# edit files
-Font /fonts/vera/Vera/unimono.14.font	# 9x15.font fill
-Font /fonts/vera/veramono/veramono.14.font	# +mono, -unicode
+Font:
+	Font /fonts/10646/9x15/9x15.font	# dot-matrix printer, !unicode
+	Font /fonts/lucida/unicode.10.font 	# big
+	Font /fonts/lucida/unicode.20.font 	# over shoulder
+	Font /fonts/lucida/unicode.32.font 	# across the room
+	Font /fonts/lucidasans/unicode.6.font	# overview code
+	Font /fonts/vera/Vera/9x15.14.font 	# edit files
+	Font /fonts/vera/Vera/unicode.14.font 	# default font
+	Font /fonts/vera/Vera/unimono.14.font	# 9x15.font fill
+	Font /fonts/vera/vera/vera.14.font
+	Font /fonts/vera/vera/vera.16.font
+	Font /fonts/vera/veramono/veramono.10.font	# default tiny review
+	Font /fonts/vera/veramono/veramono.14.font	# +mono, -unicode
+
 Inferno sh code to print the first 3 16-character sets in unicode block E700, with some help from the host's dc:
-Man 1 expr
-Man diff
-abcdefghijklmnopqrstuvwxyz
-apply {l=$1; load expr; apply {unicode $1} `{apply {c=$1; echo 16o16i $l $c + p | os dc} ${expr 0 9 seq} A B C D E F} | fmt} E700 E710 E720
-cp /emu/port/latin1.h .
-cp /lib/keyboard .
-cp /n/local/home/jcatena/.aspell.en.pws .
-diff .aspell.en.pws /n/local/home/jcatena/.aspell.en.pws
-diff keyboard /lib/keyboard
-diff latin1.h /emu/port/latin1.h
-echo '16i E000 p' | osd dc
-e↑iτ cœlacanth mediæval résumé noöp
-grep 'capital letter c' /lib/keyboard
-grep 'small letter c' /lib/keyboard
-grep euro /lib/keyboard
-grep script /lib/keyboard | grep small
-http://cstein.kings.cam.ac.uk/~chris/unicode/
-load expr; apply {cp=$1; echo ${expr $cp 57344 +}} ${expr 0 15 seq}
-load expr; apply {unicode $1} `{apply {cp=$1; echo 16o16i $cp E700 + p | os dc} ${expr 0 15 seq}} | fmt
-load expr; echo ${expr 0 15 seq}
-ls -F | mc
-ls -tr
-nb canyon
-unicode ͥ
-web 'https://en.wikipedia.org/wiki/English_terms_with_diacritical_marks'
-web 'https://en.wiktionary.org/wiki/Appendix:English_words_with_diacritics'
-|fmt -w 1 | sort | uniq | fmt -w 1000
-|sed '/^$/d' |edit |fmt -w 72
-|sed '/^[ 	]*$/d'
-|sed 's,^[ 	]+,,'
-|sed -f /lib/sed/edit
-|sed -f /lib/sed/editc
-|tr 'anihdyujgcvpmlsrxo;kf.,bt/' 'abcdefghijklmnopqrstuvwxyz'
-|tr A-Z a-z
+	apply {l=$1; load expr; apply {unicode $1} `{apply {c=$1; echo 16o16i $l $c + p | os dc} ${expr 0 9 seq} A B C D E F} | fmt} E700 E710 E720
+
+aide:
+	/github/acme-fonts/Aide
+
+data:
+	/lib/keyboard
+	/lib/unicode
+
+edit:
+	/lib/sed/edit
+	:0,$
+	Edit ,|sort|uniq
+	Edit s,(9x15),../../10646/9x15/\1,g
+	|fmt -w 1 | sort | uniq | fmt -w 1000
+	|sed '/^$/d' |edit |fmt -w 72
+	|sed '/^[ 	]*$/d'
+	|sed 's,^[ 	]+,,'
+	|sed -f /lib/sed/edit
+	|sed -f /lib/sed/editc
+	|sort|uniq
+	|tr 'anihdyujgcvpmlsrxo;kf.,bt/' 'abcdefghijklmnopqrstuvwxyz'
+	|tr A-Z a-z
+
+file:
+	ls -F
+	ls -tr
+
+font:
+	/fonts/vera/Vera/9x15.14.font:5:0x0100	0x017E	../../pelm/latineur.9
+	/fonts/vera/Vera/9x15.14.font:6:0x0100	0x01f0	../../lucida/EuroLatin.8.0
+	load expr; apply {cp=$1; echo ${expr $cp 57344 +}} ${expr 0 15 seq}
+	load expr; apply {unicode $1} `{apply {cp=$1; echo 16o16i $cp E700 + p | os dc} ${expr 0 15 seq}} | fmt
+
+keyboard:
+	cp /lib/keyboard .
+	diff keyboard /lib/keyboard
+	grep 'capital letter c' /lib/keyboard
+	grep 'small letter c' /lib/keyboard
+	grep euro /lib/keyboard
+	grep script /lib/keyboard | grep small
+
+install:
+	cp latin1.h /emu/port
+	cp /emu/port/latin1.h .
+	nsh diff latin1.h /emu/port/latin1.h
+
+manual:
+	Man 1 expr
+	Man diff
+
+spell:
+	cp /n/local/home/jcatena/.aspell.en.pws .
+	diff .aspell.en.pws /n/local/home/jcatena/.aspell.en.pws
+
+unicode:
+	0123456789
+	ABCDEFGHIJKLMNOPQRSTUVWXYZ
+	abcdefghijklmnopqrstuvwxyz
+	echo '16i E000 p' | osd dc
+	e↑iτ cœlacanth mediæval résumé noöp
+	load expr; echo ${expr 0 15 seq}
+	nb canyon
+	unicode ͥ
+	web 'http://cstein.kings.cam.ac.uk/~chris/unicode/'
+	web 'https://en.wikipedia.org/wiki/English_terms_with_diacritical_marks'
+	web 'https://en.wiktionary.org/wiki/Appendix:English_words_with_diacritics'

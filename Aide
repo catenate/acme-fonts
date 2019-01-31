@@ -1,20 +1,41 @@
-/fonts/Aide
-Dump /github/acme-fonts/dump
-Edit ,|sort|uniq
-Man 6 font
-cp /emu/port/latin1.h test/1/acme/Font
-git
-git add --all .
-git commit -a -m 'Store keyboard shortcuts.  Add hebrew ligatures and punctuation.'
-git diff
-git diff --staged
-git fetch
-git log --decorate --oneline | sed 50q
-git log --graph --oneline --all
-git push origin master
-git show 6a460cb
-log 1 git
-ls -F | mc
-test/1/acme/Edit/Aide
-test/1/acme/Font/Aide
-test/1/acme/Font/fonts
+acme:
+	Edit X/acme-fonts/D
+
+aide:
+	/fonts/Aide
+	grep -n ':$' Aide /dev/null | sed 's,: , ,g;s,:$, ,g' | fmt
+	test/1/acme/Edit/Aide
+	test/1/acme/Font/Aide
+	test/1/acme/Font/fonts
+
+acme:
+	Dump /github/acme-fonts/dump
+	Edit ,|sort|uniq
+	Man 6 font
+
+change:
+	git
+	git add --all .
+	git diff
+	git diff --staged
+
+commit:
+	git commit -a -m 'Reformat aides.'
+	git log --decorate --oneline | sed 50q
+	git log --graph --oneline --all
+	git show 6a460cb
+
+file:
+	ls -F | mc
+
+publish:
+	cp /emu/port/latin1.h test/1/acme/Font
+
+remote:
+	git fetch --all
+	git push c master
+
+remote_setup:
+	git remote
+	git remote add c catenate:catenate/acme-fonts.git
+	git remote show c
