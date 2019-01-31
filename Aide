@@ -13,6 +13,9 @@ acme:
 	Edit ,|sort|uniq
 	Man 6 font
 
+branch:
+	git checkout master
+
 change:
 	git
 	git add --all .
@@ -20,8 +23,8 @@ change:
 	git diff --staged
 
 commit:
-	git commit -a -m 'Reformat aides.'
-	git log --decorate --oneline | sed 50q
+	git commit -a -m 'Trivial Aide change.'
+	git log --decorate --oneline -n 5
 	git log --graph --oneline --all
 	git show 6a460cb
 
